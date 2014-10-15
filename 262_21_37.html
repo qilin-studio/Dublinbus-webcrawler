@@ -1,0 +1,1105 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html id="ctl00_HtmlElement" xmlns="http://www.w3.org/1999/xhtml" lang="en">
+<head id="ctl00_Head1"><title>
+	Sources of Real Time Information - Dublin Bus
+</title><meta name="rating" content="General" /><meta name="revisit-after" content="4 weeks" /><meta name="generator" content="EPiServer" /><meta name="robots" content="all" /><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><meta name="creation_date" content="Fri, 23 Sep 2011 14:01:00 GMT" /><meta name="last-modified" content="Fri, 23 Sep 2011 14:02:24 GMT" /><meta name="revised" content="Fri, 23 Sep 2011 14:02:24 GMT" /><meta http-equiv="Content-Language" content="en" /><meta name="nodeID" content="2192" />
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<link rel="Shortcut Icon" href="/favicon.ico" type="image/x-icon" />
+
+<link rel="stylesheet" type="text/css" media="screen, print" href="/Templates/Public/Styles/styles.css" />
+<link rel="stylesheet" type="text/css" media="screen, print" href="/Templates/Public/Styles/map_controls.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="/RadControls/ToolTip.BiznetCustomSkin.css" />
+<link rel="stylesheet" type="text/css" media="print" href="/Templates/Public/Styles/styles-print-new.css" />
+<link rel="stylesheet" type="text/css" href="/Templates/Public/Styles/cookiecompliancy.css" />
+
+<script language="javascript" type="text/javascript" src="/Templates/Public/Scripts/jquery-1.7.2.min.js"></script>
+<script language="javascript" type="text/javascript" src="/Templates/Public/Scripts/CustomExtra.js"></script>
+<script type="text/javascript" src="/Templates/Public/Scripts/jquery.cycle.lite.js"></script>
+<script type="text/javascript" src="/Templates/Public/Scripts/rounded-corners.js"></script>
+<script type="text/javascript" src="/Templates/Public/Scripts/jquery.transform2d.js"></script>
+
+<script type="text/javascript" src="/Templates/Public/Scripts/cookiecompliancy.min.js"></script>
+
+
+
+ <!--[if lte IE 6]>
+<link href="/Templates/Public/Styles/IE6.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+
+<!--[if IE 7]>
+<link href="/Templates/Public/Styles/IE7.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+
+<!--[if gte IE 8]>
+<link href="/Templates/Public/Styles/IE8.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+
+
+
+
+    
+<link href="http://aspnet-skins.telerikstatic.com/ajaxz/2009.3.1314/ComboBox.css" type="text/css" rel="stylesheet" class="Telerik_stylesheet" /><link href="http://aspnet-skins.telerikstatic.com/ajaxz/2009.3.1314/Default/ComboBox.Default.css" type="text/css" rel="stylesheet" class="Telerik_stylesheet" /><link href="http://aspnet-skins.telerikstatic.com/ajaxz/2009.3.1314/Input.css" type="text/css" rel="stylesheet" class="Telerik_stylesheet" /><link href="http://aspnet-skins.telerikstatic.com/ajaxz/2009.3.1314/Default/Input.Default.css" type="text/css" rel="stylesheet" class="Telerik_stylesheet" /></head>
+<body id="ctl00_body1">
+    <form name="aspnetForm" method="post" action="/en/RTPI/Sources-of-Real-Time-Information/?searchtype=view&amp;searchquery=262" id="aspnetForm">
+<div>
+<input type="hidden" name="ctl00_RadScriptManager1_TSM" id="ctl00_RadScriptManager1_TSM" value="" />
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__LASTFOCUS" id="__LASTFOCUS" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTU2OTQ0MTMzNg9kFgJmD2QWAgIBDxYCHgRsYW5nBQJlbhYCAgMPZBYCAgEQZGQWAgIFD2QWCgIBD2QWAgIBDw8WCB4LTmF2aWdhdGVVcmwFIS9kZWZhdWx0LmFzcHg/aWQ9MyZlcHNsYW5ndWFnZT1lbh4ISW1hZ2VVcmwFGi9HbG9iYWwvTG9nb1R5cGVzL2xvZ28uZ2lmHgdUb29sVGlwBQxUbyBob21lIHBhZ2UeBFRleHQFDFRvIGhvbWUgcGFnZWRkAgMPZBYCZg8WAh8EBcACPGRpdiBjbGFzcz0id2VhdGhlci1jb250YWluZXIgY2xlYXJmaXgiPjxzcGFuIGNsYXNzPSJkZXRhaWwiPjxzdHJvbmc+RHVibGluLCBJcmVsYW5kIDwvc3Ryb25nPjxici8+V2VkIDE1IE9jdCA8c3BhbiBpZD0idGltZSI+PC9zcGFuPjEywrBjPC9zcGFuPjxpbWcgd2lkdGg9IjQwcHgiIGhlaWdodD0iNDBweCIgc3R5bGU9InZlcnRpY2FsLWFsaWduOm1pZGRsZSIgc3JjPSJodHRwOi8vY2RuLndvcmxkd2VhdGhlcm9ubGluZS5uZXQvaW1hZ2VzL3dzeW1ib2xzMDFfcG5nXzY0L3dzeW1ib2xfMDAxOF9jbG91ZHlfd2l0aF9oZWF2eV9yYWluLnBuZyIgLz48L2Rpdj5kAgUPZBYCZg8WBB4KX0V4cGFuZEFsbGceCV9QYWdlTGluaygpbEVQaVNlcnZlci5Db3JlLlBhZ2VSZWZlcmVuY2UsIEVQaVNlcnZlciwgVmVyc2lvbj02LjEuMzc5LjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49OGZlODNkZWE3MzhiNDViNwEzFhICAQ9kFgRmDxUDBWZpcnN0RS9UZW1wbGF0ZXMvUHVibGljL1BhZ2VzL05ld3NDYXRlZ29yeUxpc3RpbmcuYXNweD9pZD0yNiZlcHNsYW5ndWFnZT1lbgtOZXdzIENlbnRyZWQCAQ8WAh8GKCsEAjI2FggCAQ9kFgJmDxUCPC9UZW1wbGF0ZXMvUHVibGljL1BhZ2VzL0Jhbm5lclBhZ2UuYXNweD9pZD0yNyZlcHNsYW5ndWFnZT1lbgxHZW5lcmFsIE5ld3NkAgIPZBYCZg8VAj4vVGVtcGxhdGVzL1B1YmxpYy9QYWdlcy9CYW5uZXJQYWdlLmFzcHg/aWQ9MjU2MyZlcHNsYW5ndWFnZT1lbhRHZW5lcmFsIE5ld3MgQXJjaGl2ZWQCAw9kFgJmDxUCPi9UZW1wbGF0ZXMvUHVibGljL1BhZ2VzL0Jhbm5lclBhZ2UuYXNweD9pZD0zMTU5JmVwc2xhbmd1YWdlPWVuD01lZGlhIFJlbGVhc2VzIGQCBA9kFgJmDxUCPi9UZW1wbGF0ZXMvUHVibGljL1BhZ2VzL0Jhbm5lclBhZ2UuYXNweD9pZD0yNTM2JmVwc2xhbmd1YWdlPWVuFk1lZGlhIFJlbGVhc2VzIEFyY2hpdmVkAgIPZBYEZg8VAwZtaWRkbGVVL1RlbXBsYXRlcy9QdWJsaWMvUGFnZXMvRHViQnVzX1JlYWxUaW1lSW5mb3JtYXRpb25MYW5kaW5nLmFzcHg/aWQ9MjE4OSZlcHNsYW5ndWFnZT1lbgRSVFBJZAIBDxYCHwYoKwQEMjE4ORYEAgEPZBYCZg8VAj4vVGVtcGxhdGVzL1B1YmxpYy9QYWdlcy9CYW5uZXJQYWdlLmFzcHg/aWQ9MjE5NCZlcHNsYW5ndWFnZT1lbglSVFBJIEZBUXNkAgIPZBYCZg8VAk4vVGVtcGxhdGVzL1B1YmxpYy9QYWdlcy9EdWJCdXNfUmVhbFRpbWVJbmZvcm1hdGlvbi5hc3B4P2lkPTIxOTImZXBzbGFuZ3VhZ2U9ZW4gU291cmNlcyBvZiBSZWFsIFRpbWUgSW5mb3JtYXRpb25kAgMPZBYEZg8VAwZtaWRkbGVML1RlbXBsYXRlcy9QdWJsaWMvUGFnZXMvQmFubmVyV2l0aFNlYXJjaFBhbmVsUGFnZS5hc3B4P2lkPTg2NyZlcHNsYW5ndWFnZT1lbgxZb3VyIEpvdXJuZXlkAgEPFgIfBigrBAM4NjcWGAIBD2QWAmYPFQJLL1RlbXBsYXRlcy9QdWJsaWMvUGFnZXMvUm91dGVQbGFubmVyTGFuZGluZ1BhZ2UuYXNweD9pZD0xNTIzJmVwc2xhbmd1YWdlPWVuDVJvdXRlIFBsYW5uZXJkAgIPZBYCZg8VAkkvVGVtcGxhdGVzL1B1YmxpYy9QYWdlcy9EdWJCdXNfVGltZXRhYmxlTGFuZGluZy5hc3B4P2lkPTMxJmVwc2xhbmd1YWdlPWVuClRpbWV0YWJsZXNkAgMPZBYCZg8VAj4vVGVtcGxhdGVzL1B1YmxpYy9QYWdlcy9CYW5uZXJQYWdlLmFzcHg/aWQ9MTU0NSZlcHNsYW5ndWFnZT1lbg5Db3JlIFJvdXRlIE1hcGQCBA9kFgJmDxUCPi9UZW1wbGF0ZXMvUHVibGljL1BhZ2VzL0Jhbm5lclBhZ2UuYXNweD9pZD0xMDMxJmVwc2xhbmd1YWdlPWVuFUNpdHkgQ2VudHJlIEJ1cyBTdG9wc2QCBQ9kFgJmDxUCPi9UZW1wbGF0ZXMvUHVibGljL1BhZ2VzL0Jhbm5lclBhZ2UuYXNweD9pZD0yNzgzJmVwc2xhbmd1YWdlPWVuEUdldHRpbmcgVG8gRXZlbnRzZAIGD2QWAmYPFQI+L1RlbXBsYXRlcy9QdWJsaWMvUGFnZXMvQmFubmVyUGFnZS5hc3B4P2lkPTI1ODcmZXBzbGFuZ3VhZ2U9ZW4LTW9iaWxlIEFwcHNkAgcPZBYCZg8VAj0vVGVtcGxhdGVzL1B1YmxpYy9QYWdlcy9CYW5uZXJQYWdlLmFzcHg/aWQ9ODY5JmVwc2xhbmd1YWdlPWVuEkhvdyBUbyBVc2UgVGhlIEJ1c2QCCA9kFgJmDxUCPC9UZW1wbGF0ZXMvUHVibGljL1BhZ2VzL0Jhbm5lclBhZ2UuYXNweD9pZD0zMyZlcHNsYW5ndWFnZT1lbhNUb3VyaXN0IEluZm9ybWF0aW9uZAIJD2QWAmYPFQI8L1RlbXBsYXRlcy9QdWJsaWMvUGFnZXMvQmFubmVyUGFnZS5hc3B4P2lkPTQ0JmVwc2xhbmd1YWdlPWVuCEJ1cyBIaXJlZAIKD2QWAmYPFQI8L1RlbXBsYXRlcy9QdWJsaWMvUGFnZXMvQmFubmVyUGFnZS5hc3B4P2lkPTQxJmVwc2xhbmd1YWdlPWVuBkJ1c3R4dGQCCw9kFgJmDxUCPS9UZW1wbGF0ZXMvUHVibGljL1BhZ2VzL0Jhbm5lclBhZ2UuYXNweD9pZD01OTgmZXBzbGFuZ3VhZ2U9ZW4RUGFzc2VuZ2VyIFNhZmV0eSBkAgwPZBYCZg8VAj0vVGVtcGxhdGVzL1B1YmxpYy9QYWdlcy9CYW5uZXJQYWdlLmFzcHg/aWQ9ODM1JmVwc2xhbmd1YWdlPWVuDUFjY2Vzc2liaWxpdHlkAgQPZBYEZg8VAwZtaWRkbGU8L1RlbXBsYXRlcy9QdWJsaWMvUGFnZXMvQmFubmVyUGFnZS5hc3B4P2lkPTMyJmVwc2xhbmd1YWdlPWVuEUZhcmVzIGFuZCBUaWNrZXRzZAIBDxYCHwYoKwQCMzIWEAIBD2QWAmYPFQI8L1RlbXBsYXRlcy9QdWJsaWMvUGFnZXMvQmFubmVyUGFnZS5hc3B4P2lkPTUxJmVwc2xhbmd1YWdlPWVuEEZhcmUgSW5mb3JtYXRpb25kAgIPZBYCZg8VAjwvVGVtcGxhdGVzL1B1YmxpYy9QYWdlcy9CYW5uZXJQYWdlLmFzcHg/aWQ9NTImZXBzbGFuZ3VhZ2U9ZW4HVGlja2V0c2QCAw9kFgJmDxUCSy9UZW1wbGF0ZXMvUHVibGljL1BhZ2VzL0R1YkJ1c19BY2NvcmRpb25MYW5kaW5nLmFzcHg/aWQ9MjgzMSZlcHNsYW5ndWFnZT1lbghMZWFwY2FyZGQCBA9kFgJmDxUCPi9UZW1wbGF0ZXMvUHVibGljL1BhZ2VzL0Jhbm5lclBhZ2UuYXNweD9pZD0xMTgwJmVwc2xhbmd1YWdlPWVuEENpdHkgQ2VudHJlIEZhcmVkAgUPZBYCZg8VAjwvVGVtcGxhdGVzL1B1YmxpYy9QYWdlcy9CYW5uZXJQYWdlLmFzcHg/aWQ9NTMmZXBzbGFuZ3VhZ2U9ZW4IVGF4U2F2ZXJkAgYPZBYCZg8VAkIvVGVtcGxhdGVzL1B1YmxpYy9QYWdlcy9EdWJCdXNfQWdlbnRMaXN0LmFzcHg/aWQ9NTgmZXBzbGFuZ3VhZ2U9ZW4NVGlja2V0IEFnZW50c2QCBw9kFgJmDxUCPi9UZW1wbGF0ZXMvUHVibGljL1BhZ2VzL0Jhbm5lclBhZ2UuYXNweD9pZD0xMTk3JmVwc2xhbmd1YWdlPWVuE0ZyZWUgVHJhdmVsIFNjaGVtZSBkAggPZBYCZg8VAj0vVGVtcGxhdGVzL1B1YmxpYy9QYWdlcy9CYW5uZXJQYWdlLmFzcHg/aWQ9MTIxJmVwc2xhbmd1YWdlPWVuDVN0YW5kYXJkIEZhcmVkAgUPZBYEZg8VAwZtaWRkbGU+L1RlbXBsYXRlcy9QdWJsaWMvUGFnZXMvQmFubmVyUGFnZS5hc3B4P2lkPTM3MTYmZXBzbGFuZ3VhZ2U9ZW4PSHVtYW4gUmVzb3VyY2VzZAIBDxYCHwYoKwQEMzcxNmQCBg9kFgRmDxUDBm1pZGRsZT4vVGVtcGxhdGVzL1B1YmxpYy9QYWdlcy9CYW5uZXJQYWdlLmFzcHg/aWQ9MzMyMyZlcHNsYW5ndWFnZT1lbg9MdWFzIENyb3NzIENpdHlkAgEPFgIfBigrBAQzMzIzZAIHD2QWBGYPFQMGbWlkZGxlPC9UZW1wbGF0ZXMvUHVibGljL1BhZ2VzL0Jhbm5lclBhZ2UuYXNweD9pZD0zNiZlcHNsYW5ndWFnZT1lbghBYm91dCBVc2QCAQ8WAh8GKCsEAjM2FhwCAQ9kFgJmDxUCPS9UZW1wbGF0ZXMvUHVibGljL1BhZ2VzL0Jhbm5lclBhZ2UuYXNweD9pZD0xMDImZXBzbGFuZ3VhZ2U9ZW4bQ29tbXVuaXR5IFNwaXJpdCBJbml0aWF0aXZlZAICD2QWAmYPFQJML1RlbXBsYXRlcy9QdWJsaWMvUGFnZXMvRHViQnVzX0ZsYXRTdGFuZGFyZFBhZ2V0LmFzcHg/aWQ9Mzg2MiZlcHNsYW5ndWFnZT1lbhpTaWduIFVwIGZvciBvdXIgTmV3c2xldHRlcmQCAw9kFgJmDxUCPi9UZW1wbGF0ZXMvUHVibGljL1BhZ2VzL0Jhbm5lclBhZ2UuYXNweD9pZD0yODIyJmVwc2xhbmd1YWdlPWVuHER1YmxpbiBCdXMgYW5kIFNvY2lhbCBNZWRpYSBkAgQPZBYCZg8VAkovVGVtcGxhdGVzL1B1YmxpYy9QYWdlcy9DYXRlZ29yaWVzL0ZBUS9GQVFQYWdlLmFzcHg/aWQ9MzM5NyZlcHNsYW5ndWFnZT1lbgRGQVFzZAIFD2QWAmYPFQI+L1RlbXBsYXRlcy9QdWJsaWMvUGFnZXMvQmFubmVyUGFnZS5hc3B4P2lkPTEzODMmZXBzbGFuZ3VhZ2U9ZW4QQ3VzdG9tZXIgQ2hhcnRlcmQCBg9kFgJmDxUCPS9UZW1wbGF0ZXMvUHVibGljL1BhZ2VzL0Jhbm5lclBhZ2UuYXNweD9pZD0xMTUmZXBzbGFuZ3VhZ2U9ZW4IUHJvamVjdHNkAgcPZBYCZg8VAj4vVGVtcGxhdGVzL1B1YmxpYy9QYWdlcy9CYW5uZXJQYWdlLmFzcHg/aWQ9MTUyOSZlcHNsYW5ndWFnZT1lbhZEb2luZyBCdXNpbmVzcyB3aXRoIFVzZAIID2QWAmYPFQI9L1RlbXBsYXRlcy9QdWJsaWMvUGFnZXMvQmFubmVyUGFnZS5hc3B4P2lkPTEwMyZlcHNsYW5ndWFnZT1lbhBEdWJsaW4gQnVzIEZsZWV0ZAIJD2QWAmYPFQI9L1RlbXBsYXRlcy9QdWJsaWMvUGFnZXMvQmFubmVyUGFnZS5hc3B4P2lkPTEyOSZlcHNsYW5ndWFnZT1lbgdSZXBvcnRzZAIKD2QWAmYPFQI9L1RlbXBsYXRlcy9QdWJsaWMvUGFnZXMvQmFubmVyUGFnZS5hc3B4P2lkPTExOSZlcHNsYW5ndWFnZT1lbhRBZHZlcnRpc2luZyB3aXRoIFVzIGQCCw9kFgJmDxUCPS9UZW1wbGF0ZXMvUHVibGljL1BhZ2VzL0Jhbm5lclBhZ2UuYXNweD9pZD0xNDcmZXBzbGFuZ3VhZ2U9ZW4WRXF1YWxpdHkgYW5kIERpdmVyc2l0eWQCDA9kFgJmDxUCPS9UZW1wbGF0ZXMvUHVibGljL1BhZ2VzL0Jhbm5lclBhZ2UuYXNweD9pZD04MjImZXBzbGFuZ3VhZ2U9ZW4YRmlsbWluZyB3aXRoIER1YmxpbiBCdXMgZAIND2QWAmYPFQI+L1RlbXBsYXRlcy9QdWJsaWMvUGFnZXMvQmFubmVyUGFnZS5hc3B4P2lkPTExMjQmZXBzbGFuZ3VhZ2U9ZW4TRHVibGluIEJ1cyBCeWUgTGF3c2QCDg9kFgJmDxUCPS9UZW1wbGF0ZXMvUHVibGljL1BhZ2VzL0Jhbm5lclBhZ2UuYXNweD9pZD0xMjAmZXBzbGFuZ3VhZ2U9ZW4OQ29kZSBvZiBFdGhpY3NkAggPZBYEZg8VAwZtaWRkbGU9L1RlbXBsYXRlcy9QdWJsaWMvUGFnZXMvQmFubmVyUGFnZS5hc3B4P2lkPTE1MCZlcHNsYW5ndWFnZT1lbgpDb250YWN0IFVzZAIBDxYCHwYoKwQDMTUwZAIJD2QWBGYPFQMEbGFzdEQvVGVtcGxhdGVzL1B1YmxpYy9QYWdlcy9EdWJCdXNfRnVsbFdpZHRoLmFzcHg/aWQ9Mzc5MiZlcHNsYW5ndWFnZT1lbgtOZXR3b3JrTm9lbGQCAQ8WAh8GKCsEBDM3OTJkAgkPZBYGAgEPFgIeC18hSXRlbUNvdW50AgQWCAIBD2QWAgIBDxYCHgVjbGFzcwUIc2VsZWN0ZWQWAmYPFQMVUmVhbCBUaW1lIEluZm9ybWF0aW9uRi9UZW1wbGF0ZXMvUHVibGljL1BhZ2VzL0R1YkJ1c19SZWFsVGltZUluZm9ybWF0aW9uTGFuZGluZy5hc3B4P2lkPTIxODkVUmVhbCBUaW1lIEluZm9ybWF0aW9uZAICD2QWAgIBD2QWAmYPFQMKVGltZXRhYmxlczovVGVtcGxhdGVzL1B1YmxpYy9QYWdlcy9EdWJCdXNfVGltZXRhYmxlTGlzdGluZy5hc3B4P2lkPTMxClRpbWV0YWJsZXNkAgMPZBYCAgEPZBYCZg8VAw1Sb3V0ZSBQbGFubmVyPC9UZW1wbGF0ZXMvUHVibGljL1BhZ2VzL1JvdXRlUGxhbm5lckxhbmRpbmdQYWdlLmFzcHg/aWQ9MTUyMw1Sb3V0ZSBQbGFubmVyZAIED2QWAgIBD2QWAmYPFQMPRmFyZSBDYWxjdWxhdG9yOy9UZW1wbGF0ZXMvUHVibGljL1BhZ2VzL0R1YkJ1c19GYXJlQ2FsY0xhbmRpbmcuYXNweD9pZD0zMTA4D0ZhcmUgQ2FsY3VsYXRvcmQCBQ8WAh4HVmlzaWJsZWhkAg0PZBYMAgEPZBYIAgIPDxYCHwEFVS9UZW1wbGF0ZXMvUHVibGljL1BhZ2VzL0R1YkJ1c19SZWFsVGltZUluZm9ybWF0aW9uTGFuZGluZy5hc3B4P2lkPTIxODkmZXBzbGFuZ3VhZ2U9ZW5kZAIEDxQrAAIPFgIeF0VuYWJsZUFqYXhTa2luUmVuZGVyaW5naGRkFgRmDw8WBB4IQ3NzQ2xhc3MFCXJjYkhlYWRlch4EXyFTQgICZGQCAQ8PFgQfCwUJcmNiRm9vdGVyHwwCAmRkAggPZBYCAgEPFCsACA8WBB8KaB4NTGFiZWxDc3NDbGFzcwUHcmlMYWJlbGQWBh4FV2lkdGgbAAAAAAAAZUABAAAAHwsFEXJpVGV4dEJveCByaUhvdmVyHwwCggIWBh8OGwAAAAAAAGVAAQAAAB8LBRFyaVRleHRCb3ggcmlFcnJvch8MAoICFgYfDhsAAAAAAABlQAEAAAAfCwUTcmlUZXh0Qm94IHJpRm9jdXNlZB8MAoICFgYfDhsAAAAAAABlQAEAAAAfCwUTcmlUZXh0Qm94IHJpRW5hYmxlZB8MAoICFgYfDhsAAAAAAABlQAEAAAAfCwUUcmlUZXh0Qm94IHJpRGlzYWJsZWQfDAKCAhYGHw4bAAAAAAAAZUABAAAAHwsFEXJpVGV4dEJveCByaUVtcHR5HwwCggIWBh8OGwAAAAAAAGVAAQAAAB8LBRByaVRleHRCb3ggcmlSZWFkHwwCggJkAgoPFCsAAg8WAh8KaGRkFgRmDw8WBB8LBQlyY2JIZWFkZXIfDAICZGQCAQ8PFgQfCwUJcmNiRm9vdGVyHwwCAmRkAgMPDxYCHwloZGQCBQ8PFgIfCWhkZAIHDw8WAh8JaGQWAgICDw8WAh8JaGRkAgkPDxYCHwloZGQCCw8PFgYeKUR1YkJ1c19SZWFsVGltZVN0b3BJbmZvcm1hdGlvbl9TdG9wTnVtYmVyAoYCHgtFbmFibGVUaW1lcmgfCWdkFgICBA9kFgYCAQ8WAh4HRW5hYmxlZGhkAgMPZBYCZg9kFg4CAQ8WAh8EBQgyMTozNDozNmQCBw8PFgIfBAUDMjYyZGQCCQ8PFgIfBAUlUGFybmVsbCBTcXVhcmUsIEdhcmRlbiBvZiBSZW1lbWJyYW5jZWRkAgsPDxYCHwloZGQCDQ8PFgIfCWdkZAIPDxBkEBUCAjE2AzE2YxUCAjE2AzE2QxQrAwJnZxYCZgIBZAIRDxYCHwcCAxYGAgEPZBYCZg8VBQIxNh9CYWxsaW50ZWVyIHZpYSBPJ0Nvbm5lbGwgU3RyZWV0BTIxOjQ4AABkAgIPZBYCZg8VBQIxNh9CYWxsaW50ZWVyIHZpYSBPJ0Nvbm5lbGwgU3RyZWV0BTIyOjAxAABkAgMPZBYCZg8VBQIxNh9CYWxsaW50ZWVyIHZpYSBPJ0Nvbm5lbGwgU3RyZWV0BTIyOjIxAABkAgUPFgIfBwICFgQCAQ9kFgJmDxUCAjE2xwE8YSBocmVmPSIvZW4vWW91ci1Kb3VybmV5MS9UaW1ldGFibGVzL0FsbC1UaW1ldGFibGVzLzE2LS8iPlRpbWV0YWJsZTwvYT4gfCA8YSBzdHlsZT0iY3Vyc29yOnBvaW50ZXI7IiBvbmNsaWNrPSJTaG93TWFwRGlhbG9nKCcxNicsJ0lPJywnQmFsbGludGVlcisoS2luZ3N0b24pJywnRHVibGluK0FpcnBvcnQnKTtyZXR1cm4gZmFsc2U7Ij5NYXA8L2E+ZAICD2QWAmYPFQIDMTZjlQE8YSBocmVmPSIiPlRpbWV0YWJsZTwvYT4gfCA8YSBzdHlsZT0iY3Vyc29yOnBvaW50ZXI7IiBvbmNsaWNrPSJTaG93TWFwRGlhbG9nKCcxNkMnLCdJTycsJ0JhbGxpbnRlZXIrb3IrQWlycG9ydCcsJ0NpdHkrQ2VudHJlJyk7cmV0dXJuIGZhbHNlOyI+TWFwPC9hPmQCCw9kFhBmDxYCHwcCBBYIAgEPZBYCZg8VAwpUaW1ldGFibGVzOi9UZW1wbGF0ZXMvUHVibGljL1BhZ2VzL0R1YkJ1c19UaW1ldGFibGVMaXN0aW5nLmFzcHg/aWQ9MzEKVGltZXRhYmxlc2QCAg9kFgJmDxUDBkJ1c3R4dC0vVGVtcGxhdGVzL1B1YmxpYy9QYWdlcy9CYW5uZXJQYWdlLmFzcHg/aWQ9NDEGQnVzdHh0ZAIDD2QWAmYPFQMQQ2l0eSBDZW50cmUgRmFyZS8vVGVtcGxhdGVzL1B1YmxpYy9QYWdlcy9CYW5uZXJQYWdlLmFzcHg/aWQ9MTE4MBBDaXR5IENlbnRyZSBGYXJlZAIED2QWAmYPFQMNQSB0byBaIEZpbmRlci4vVGVtcGxhdGVzL1B1YmxpYy9QYWdlcy9BdG9aRmluZGVyLmFzcHg/aWQ9NjM4DUEgdG8gWiBGaW5kZXJkAgEPFgIfBwIEFggCAQ9kFgJmDxUDCEFib3V0IFVzLS9UZW1wbGF0ZXMvUHVibGljL1BhZ2VzL0Jhbm5lclBhZ2UuYXNweD9pZD0zNghBYm91dCBVc2QCAg9kFgJmDxUDD0h1bWFuIFJlc291cmNlcy8vVGVtcGxhdGVzL1B1YmxpYy9QYWdlcy9CYW5uZXJQYWdlLmFzcHg/aWQ9MzcxNg9IdW1hbiBSZXNvdXJjZXNkAgMPZBYCZg8VAwhQcm9qZWN0cy4vVGVtcGxhdGVzL1B1YmxpYy9QYWdlcy9CYW5uZXJQYWdlLmFzcHg/aWQ9MTE1CFByb2plY3RzZAIED2QWAmYPFQMOQ29kZSBvZiBFdGhpY3MuL1RlbXBsYXRlcy9QdWJsaWMvUGFnZXMvQmFubmVyUGFnZS5hc3B4P2lkPTEyMA5Db2RlIG9mIEV0aGljc2QCAg8WAh8HAgQWCAIBD2QWAmYPFQMRRmFyZXMgYW5kIFRpY2tldHMtL1RlbXBsYXRlcy9QdWJsaWMvUGFnZXMvQmFubmVyUGFnZS5hc3B4P2lkPTMyEUZhcmVzIGFuZCBUaWNrZXRzZAICD2QWAmYPFQMTVG91cmlzdCBJbmZvcm1hdGlvbi0vVGVtcGxhdGVzL1B1YmxpYy9QYWdlcy9CYW5uZXJQYWdlLmFzcHg/aWQ9MzMTVG91cmlzdCBJbmZvcm1hdGlvbmQCAw9kFgJmDxUDFUNpdHkgQ2VudHJlIEJ1cyBTdG9wcy8vVGVtcGxhdGVzL1B1YmxpYy9QYWdlcy9CYW5uZXJQYWdlLmFzcHg/aWQ9MTAzMRVDaXR5IENlbnRyZSBCdXMgU3RvcHNkAgQPZBYCZg8VAxBBaXJwb3J0IFNlcnZpY2VzOi9UZW1wbGF0ZXMvUHVibGljL1BhZ2VzL0R1YkJ1c19UaW1ldGFibGVMaXN0aW5nLmFzcHg/aWQ9NjUQQWlycG9ydCBTZXJ2aWNlc2QCAw8WAh8HAgQWCAIBD2QWAmYPFQMKQ29udGFjdCBVcy4vVGVtcGxhdGVzL1B1YmxpYy9QYWdlcy9CYW5uZXJQYWdlLmFzcHg/aWQ9MTUwCkNvbnRhY3QgVXNkAgIPZBYCZg8VAwtOZXdzIENlbnRyZTYvVGVtcGxhdGVzL1B1YmxpYy9QYWdlcy9OZXdzQ2F0ZWdvcnlMaXN0aW5nLmFzcHg/aWQ9MjYLTmV3cyBDZW50cmVkAgMPZBYCZg8VAxNGcmVlIFRyYXZlbCBTY2hlbWUgLy9UZW1wbGF0ZXMvUHVibGljL1BhZ2VzL0Jhbm5lclBhZ2UuYXNweD9pZD0xMTk3E0ZyZWUgVHJhdmVsIFNjaGVtZSBkAgQPZBYCZg8VAxFQYXNzZW5nZXIgU2FmZXR5IC4vVGVtcGxhdGVzL1B1YmxpYy9QYWdlcy9CYW5uZXJQYWdlLmFzcHg/aWQ9NTk4EVBhc3NlbmdlciBTYWZldHkgZAIEDxYCHwlnFgICAQ8PFgQfAQU9L1RlbXBsYXRlcy9QdWJsaWMvUGFnZXMvQmFubmVyUGFnZS5hc3B4P2lkPTgzNSZlcHNsYW5ndWFnZT1lbh8EBQ1BY2Nlc3NpYmlsaXR5ZGQCBQ8WAh8JZxYCAgEPDxYEHwEFPC9UZW1wbGF0ZXMvUHVibGljL1BhZ2VzL0Jhbm5lclBhZ2UuYXNweD9pZD03NyZlcHNsYW5ndWFnZT1lbh8EBQdQcml2YWN5ZGQCBw8WAh8JZxYCAgEPDxYEHwEFPC9UZW1wbGF0ZXMvUHVibGljL1BhZ2VzL0Jhbm5lclBhZ2UuYXNweD9pZD00MCZlcHNsYW5ndWFnZT1lbh8EBQVMZWdhbGRkAggPFgIfCWcWAgIBDw8WBB8BBUAvVGVtcGxhdGVzL1B1YmxpYy9QYWdlcy9EdWJCdXNfU2l0ZU1hcC5hc3B4P2lkPTM4JmVwc2xhbmd1YWdlPWVuHwQFB1NpdGVtYXBkZBgEBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WBQVRY3RsMDAkRnVsbFJlZ2lvbiRNYWluUmVnaW9uJENvbnRlbnRDb2x1bW5zX2hvbGRlciRSZWFsVGltZVNlYXJjaDEkcmFkQ29tYm9Cb3hTdG9wBVJjdGwwMCRGdWxsUmVnaW9uJE1haW5SZWdpb24kQ29udGVudENvbHVtbnNfaG9sZGVyJFJlYWxUaW1lU2VhcmNoMSRyYWRDb21ib0JveFJvdXRlBVtjdGwwMCRGdWxsUmVnaW9uJE1haW5SZWdpb24kQ29udGVudENvbHVtbnNfaG9sZGVyJFJlYWxUaW1lU3RvcEluZm9ybWF0aW9uMSRjYmxSb3V0ZUZpbHRlciQwBVtjdGwwMCRGdWxsUmVnaW9uJE1haW5SZWdpb24kQ29udGVudENvbHVtbnNfaG9sZGVyJFJlYWxUaW1lU3RvcEluZm9ybWF0aW9uMSRjYmxSb3V0ZUZpbHRlciQxBVtjdGwwMCRGdWxsUmVnaW9uJE1haW5SZWdpb24kQ29udGVudENvbHVtbnNfaG9sZGVyJFJlYWxUaW1lU3RvcEluZm9ybWF0aW9uMSRjYmxSb3V0ZUZpbHRlciQxBVJjdGwwMCRGdWxsUmVnaW9uJE1haW5SZWdpb24kQ29udGVudENvbHVtbnNfaG9sZGVyJFJlYWxUaW1lU2VhcmNoMSRyYWRDb21ib0JveFJvdXRlDxQrAAJlZWQFUWN0bDAwJEZ1bGxSZWdpb24kTWFpblJlZ2lvbiRDb250ZW50Q29sdW1uc19ob2xkZXIkUmVhbFRpbWVTZWFyY2gxJHJhZENvbWJvQm94U3RvcA8UKwACZWVkBRVjdGwwMCRIZWFkZXIxJFJzc0xpc3QPD2ZkZDgNWYmBbvi2hXzNTkpbnNm4K7cl" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['aspnetForm'];
+if (!theForm) {
+    theForm = document.aspnetForm;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=3v5eIUruI746caO-Y2JC14wQyW4sS6XMdd_ItgVETWW6kENbTkYYHes2jlJ2v_SWbWdeiuMGn2Iucs1wLnwSZXIH8Z81&amp;t=635295095132453548" type="text/javascript"></script>
+
+
+<script src="http://ajax.microsoft.com/ajax/3.5/MicrosoftAjax.js" type="text/javascript"></script>
+<script src="/Telerik.Web.UI.WebResource.axd?_TSM_HiddenField_=ctl00_RadScriptManager1_TSM&amp;compress=2&amp;_TSM_CombinedScripts_=%3b%3bSystem.Web.Extensions%2c+Version%3d3.5.0.0%2c+Culture%3dneutral%2c+PublicKeyToken%3d31bf3856ad364e35%3aen%3aeb198dbd-2212-44f6-bb15-882bde414f00%3ab25378d2" type="text/javascript"></script>
+<script src="http://aspnet-scripts.telerikstatic.com/ajaxz/2009.3.1314/Common/Core.js" type="text/javascript"></script>
+<script src="http://aspnet-scripts.telerikstatic.com/ajaxz/2009.3.1314/Common/jQuery.js" type="text/javascript"></script>
+<script src="http://aspnet-scripts.telerikstatic.com/ajaxz/2009.3.1314/Common/jQueryPlugins.js" type="text/javascript"></script>
+<script src="http://aspnet-scripts.telerikstatic.com/ajaxz/2009.3.1314/Common/Navigation/NavigationScripts.js" type="text/javascript"></script>
+<script src="http://aspnet-scripts.telerikstatic.com/ajaxz/2009.3.1314/ComboBox/RadComboBoxScripts.js" type="text/javascript"></script>
+<script src="http://aspnet-scripts.telerikstatic.com/ajaxz/2009.3.1314/Input/TextBox/RadInputScript.js" type="text/javascript"></script>
+<script src="/Telerik.Web.UI.WebResource.axd?_TSM_HiddenField_=ctl00_RadScriptManager1_TSM&amp;compress=2&amp;_TSM_CombinedScripts_=%3b%3bSystem.Web.Extensions%2c+Version%3d3.5.0.0%2c+Culture%3dneutral%2c+PublicKeyToken%3d31bf3856ad364e35%3aen%3aeb198dbd-2212-44f6-bb15-882bde414f00%3a76254418" type="text/javascript"></script>
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="39697728" />
+</div>
+    <script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ctl00$RadScriptManager1', document.getElementById('aspnetForm'));
+Sys.WebForms.PageRequestManager.getInstance()._updateControls(['tctl00$FullRegion$MainRegion$ContentColumns_holder$RealTimeStopInformation1$upPanel'], ['ctl00$FullRegion$MainRegion$ContentColumns_holder$RealTimeStopInformation1$IntervalTimer','ctl00$FullRegion$MainRegion$ContentColumns_holder$RealTimeStopInformation1$lbRefresh','ctl00$FullRegion$MainRegion$ContentColumns_holder$RealTimeStopInformation1$lbViewOnMap','ctl00$FullRegion$MainRegion$ContentColumns_holder$RealTimeStopInformation1$lbDeselectAllRoutes','ctl00$FullRegion$MainRegion$ContentColumns_holder$RealTimeStopInformation1$cblRouteFilter'], [], 90);
+//]]>
+</script>
+
+    
+    <div id="auto_center">
+        <div id="site_holder">
+            <div class="top-controls clearfix">
+                <ul class="sizer clearfix">    
+                    <!--[if !IE]><!-->      	    
+            	    <li class="one"><a onclick="$('body').animate({transform: 'scale(1)'}).css({'position' : 'relative'});" href="#">A</a></li>
+                    <li class="two"><a onclick="$('body').animate({transform: 'scale(1.15)'}).css({'position' : 'relative'});" href="#">A</a></li>
+                    <li class="three"><a onclick="$('body').animate({transform: 'scale(1.3)'}).css({'position' : 'relative'});" href="#">A</a></li>
+                    <!--<![endif]-->
+                    <!--[if IE]>
+                    <li class="one"><a onclick="$('body').css({'position' : 'relative', 'zoom' : '100%'});" href="#">A</a></li>
+                    <li class="two"><a onclick="$('body').css({'position' : 'relative', 'zoom' : '115%'});" href="#">A</a></li>
+                    <li class="three"><a onclick="$('body').css({'position' : 'relative', 'zoom' : '130%'});" href="#">A</a></li>
+                    <![endif]-->
+                </ul>                                                               
+            </div>
+            
+                <div id="header_top">
+                    
+
+<div id="header_logo">
+    <h1>
+        <a id="ctl00_FullRegion_PageHeader1_lnkLogotype" accesskey="1" title="To home page" class="logolink" href="/en/"><img title="To home page" src="/Global/LogoTypes/logo.gif" alt="To home page" style="border-width:0px;" /></a>	
+    </h1> 
+</div>
+ 
+
+
+    
+                    
+                    <div class="weather-container clearfix"><span class="detail"><strong>Dublin, Ireland </strong><br />Wed 15 Oct <span id="time"></span>12°c</span><img width="40px" height="40px" style="vertical-align:middle" src="http://cdn.worldweatheronline.net/images/wsymbols01_png_64/wsymbol_0018_cloudy_with_heavy_rain.png" /></div>
+
+<script type="text/javascript">
+    function displayTime() {
+        var date = new Date();
+
+        document.getElementById('time').innerHTML = date.toTimeString().substring(0,5);
+        setTimeout("displayTime()", 1000);
+    }
+    
+    displayTime();
+</script>
+                                        
+                    <div id="utility">
+                        
+  <ul id="nav-list">
+
+  <li class='first'>
+   <a href='/en/News-Centre/'>
+    News Centre
+   </a>
+    
+        <ul id="nav-list">
+       
+        <li>
+         <a href='/en/News-Centre/General-News/'>
+          General News
+         </a> 
+        </li>
+       
+        <li>
+         <a href='/en/News-Centre/General-News-Archive/'>
+          General News Archive
+         </a> 
+        </li>
+       
+        <li>
+         <a href='/en/News-Centre/Media-Releases-Archive1/'>
+          Media Releases 
+         </a> 
+        </li>
+       
+        <li>
+         <a href='/en/News-Centre/Media-Releases-Archive/'>
+          Media Releases Archive
+         </a> 
+        </li>
+       
+        </ul>
+       
+  </li>
+ 
+        <li class='middle'>
+         <a href='/en/RTPI/'>
+            RTPI 
+         </a>
+           
+                    <ul>
+                
+                    <li>
+                     <a href='/en/RTPI/RTPI-Help-Page/'>
+                      RTPI FAQs
+                     </a>
+                    </li>
+                
+                    <li>
+                     <a href='/en/RTPI/Sources-of-Real-Time-Information/'>
+                      Sources of Real Time Information
+                     </a>
+                    </li>
+                
+                    </ul>
+                
+        </li>
+    
+  <li class='middle'>
+   <a href='/en/Your-Journey1/'>
+    Your Journey
+   </a>
+    
+        <ul id="nav-list">
+       
+        <li>
+         <a href='/en/Route-Planner/'>
+          Route Planner
+         </a> 
+        </li>
+       
+        <li>
+         <a href='/en/Your-Journey1/Timetables/'>
+          Timetables
+         </a> 
+        </li>
+       
+        <li>
+         <a href='/en/Your-Journey1/Core-Route-Map/'>
+          Core Route Map
+         </a> 
+        </li>
+       
+        <li>
+         <a href='/en/Your-Journey1/City-Centre-Bus-Stops/'>
+          City Centre Bus Stops
+         </a> 
+        </li>
+       
+        <li>
+         <a href='/en/Your-Journey1/Getting-To-Events/'>
+          Getting To Events
+         </a> 
+        </li>
+       
+        <li>
+         <a href='/en/Your-Journey1/Mobileapps/'>
+          Mobile Apps
+         </a> 
+        </li>
+       
+        <li>
+         <a href='/en/Your-Journey1/How-to-use-the-bus/'>
+          How To Use The Bus
+         </a> 
+        </li>
+       
+        <li>
+         <a href='/en/Your-Journey1/Tourist-Information/'>
+          Tourist Information
+         </a> 
+        </li>
+       
+        <li>
+         <a href='/en/Your-Journey1/Bus-Hire/'>
+          Bus Hire
+         </a> 
+        </li>
+       
+        <li>
+         <a href='/en/Your-Journey1/Bustxt/'>
+          Bustxt
+         </a> 
+        </li>
+       
+        <li>
+         <a href='/en/Your-Journey1/Passenger-Safety-/'>
+          Passenger Safety 
+         </a> 
+        </li>
+       
+        <li>
+         <a href='/en/Your-Journey1/Accessibility/'>
+          Accessibility
+         </a> 
+        </li>
+       
+        </ul>
+       
+  </li>
+ 
+  <li class='middle'>
+   <a href='/en/Fares--Tickets/'>
+    Fares and Tickets
+   </a>
+    
+        <ul id="nav-list">
+       
+        <li>
+         <a href='/en/Fares--Tickets/Fare-Information/'>
+          Fare Information
+         </a> 
+        </li>
+       
+        <li>
+         <a href='/en/Fares--Tickets/Tickets/'>
+          Tickets
+         </a> 
+        </li>
+       
+        <li>
+         <a href='/en/Fares--Tickets/Leapcard/'>
+          Leapcard
+         </a> 
+        </li>
+       
+        <li>
+         <a href='/en/Fares--Tickets/City-Centre/'>
+          City Centre Fare
+         </a> 
+        </li>
+       
+        <li>
+         <a href='/en/Fares--Tickets/TaxSaver/'>
+          TaxSaver
+         </a> 
+        </li>
+       
+        <li>
+         <a href='/en/Fares--Tickets/Ticket-Agents/'>
+          Ticket Agents
+         </a> 
+        </li>
+       
+        <li>
+         <a href='/en/Fares--Tickets/Free-Travel-Scheme-/'>
+          Free Travel Scheme 
+         </a> 
+        </li>
+       
+        <li>
+         <a href='/en/Fares--Tickets/Standard-Fare/'>
+          Standard Fare
+         </a> 
+        </li>
+       
+        </ul>
+       
+  </li>
+ 
+  <li class='middle'>
+   <a href='/en/Human-Resources/'>
+    Human Resources
+   </a>
+    
+  </li>
+ 
+  <li class='middle'>
+   <a href='/en/Luas-Cross-City/'>
+    Luas Cross City
+   </a>
+    
+  </li>
+ 
+  <li class='middle'>
+   <a href='/en/About-Us/'>
+    About Us
+   </a>
+    
+        <ul id="nav-list">
+       
+        <li>
+         <a href='/en/About-Us/Community-Spirit-Initiative/'>
+          Community Spirit Initiative
+         </a> 
+        </li>
+       
+        <li>
+         <a href='/en/About-Us/Sign-Up-For-Our-Newsletter/'>
+          Sign Up for our Newsletter
+         </a> 
+        </li>
+       
+        <li>
+         <a href='/en/About-Us/Dublin-Bus-and-Social-Media-/'>
+          Dublin Bus and Social Media 
+         </a> 
+        </li>
+       
+        <li>
+         <a href='/en/About-Us/FAQs/'>
+          FAQs
+         </a> 
+        </li>
+       
+        <li>
+         <a href='/en/About-Us/Customer-Charter/'>
+          Customer Charter
+         </a> 
+        </li>
+       
+        <li>
+         <a href='/en/About-Us/Projects/'>
+          Projects
+         </a> 
+        </li>
+       
+        <li>
+         <a href='/en/About-Us/Doing-Business-with-Us/'>
+          Doing Business with Us
+         </a> 
+        </li>
+       
+        <li>
+         <a href='/en/About-Us/Dublin-Bus-Fleet/'>
+          Dublin Bus Fleet
+         </a> 
+        </li>
+       
+        <li>
+         <a href='/en/About-Us/Reports/'>
+          Reports
+         </a> 
+        </li>
+       
+        <li>
+         <a href='/en/About-Us/Advertising-with-Dublin-Bus-/'>
+          Advertising with Us 
+         </a> 
+        </li>
+       
+        <li>
+         <a href='/en/About-Us/Equality-Diversity-Strategy-/'>
+          Equality and Diversity
+         </a> 
+        </li>
+       
+        <li>
+         <a href='/en/About-Us/Filming-with-Dublin-Bus-/'>
+          Filming with Dublin Bus 
+         </a> 
+        </li>
+       
+        <li>
+         <a href='/en/About-Us/Dublin-Bus-Bye-Laws/'>
+          Dublin Bus Bye Laws
+         </a> 
+        </li>
+       
+        <li>
+         <a href='/en/About-Us/Code-of-Ethic/'>
+          Code of Ethics
+         </a> 
+        </li>
+       
+        </ul>
+       
+  </li>
+ 
+  <li class='middle'>
+   <a href='/en/Contact-Us1/'>
+    Contact Us
+   </a>
+    
+  </li>
+ 
+  <li class='last'>
+   <a href='/en/NetworkNoel/'>
+    NetworkNoel
+   </a>
+    
+  </li>
+ 
+        </ul>
+       
+    
+
+
+                    </div>
+                    
+                    
+
+<div id="search">
+<div id="ctl00_FullRegion_QuickSearch1_pnlQuickSearch" onkeypress="javascript:return WebForm_FireDefaultButton(event, 'ctl00_FullRegion_QuickSearch1_SearchButton')">
+	
+
+<div class="searchbox">
+ 
+ <input name="ctl00$FullRegion$QuickSearch1$SearchText" type="text" value="Type here to search" id="ctl00_FullRegion_QuickSearch1_SearchText" tabindex="1" class="quickSearchField" onfocus="this.value='';" onblur="this.value=!this.value?'Type here to search':this.value;" />
+</div>
+    
+<div class="search_button">
+ <input type="submit" name="ctl00$FullRegion$QuickSearch1$SearchButton" value="Search" id="ctl00_FullRegion_QuickSearch1_SearchButton" title="Site Search" class="quickSearchButton" />
+</div>
+
+
+</div>
+</div>
+
+                                       
+                    <br class="clear_both" />
+                    <br class="clear_both" />
+                </div>
+                
+                    <!-- TABS & SEARCH -->
+                    <div id="header_bottom">
+                        <div id="nav">
+                            
+                                    <ul>
+                                
+                                    <li id="ctl00_FullRegion_MainRegion_rpttabcontrol_ctl01_tab" class="selected"><a title='Real Time Information' href='/RTPI/'>
+                                        Real Time Information
+                                    </a></li>
+                                    
+                                
+                                    <li id="ctl00_FullRegion_MainRegion_rpttabcontrol_ctl02_tab"><a title='Timetables' href='/Your-Journey1/Timetables/'>
+                                        Timetables
+                                    </a></li>
+                                    
+                                
+                                    <li id="ctl00_FullRegion_MainRegion_rpttabcontrol_ctl03_tab"><a title='Route Planner' href='/Route-Planner/'>
+                                        Route Planner
+                                    </a></li>
+                                    
+                                
+                                    <li id="ctl00_FullRegion_MainRegion_rpttabcontrol_ctl04_tab"><a title='Fare Calculator' href='/Fare-Calculator/'>
+                                        Fare Calculator
+                                    </a></li>
+                                    
+                                
+                                    </ul>
+                                
+                        </div>
+                        <ul class="social-menu">
+                            <li>
+                                <a href="/About-Us/Sign-Up-For-Our-Newsletter">
+                                    <img src="/Templates/Public/Styles/Images/SignupIcon.jpg" />
+                                </a>
+                            </li>
+            	            <li><a href="http://www.facebook.com/DublinBusNews" target="_blank"><img src="/Templates/Public/Styles/images/icon-small-facebook.png" /></a></li>
+                            <li><a href="http://twitter.com/DublinBusNews" target="_blank"><img src="/Templates/Public/Styles/images/icon-small-twitter.png" /></a></li>
+                            <li><a href="http://www.youtube.com/dublinbusnews" target="_blank"><img src="/Templates/Public/Styles/images/icon-small-youtube.png" /></a></li>
+                        </ul>                        
+                        <br class="clear_both" />                        
+                    </div>
+                    
+                    
+                    
+                    <div id="ctl00_FullRegion_MainRegion_bannerPlaceHolderNone" class="nav_border">
+                    </div>
+                    <!-- hide on HP -->
+                    <div id="breadcrumb">
+                        <div id="breadcrumb_left" class="float_left">
+                            <strong>
+                                <span id="ctl00_FullRegion_MainRegion_Label6">You are here</span>&nbsp;&#187;&nbsp;
+                            </strong>
+                            <a href="/en/" title="To home page">Home</a> » <a href="/en/RTPI/" title="RTPI">RTPI</a> » <a href="/en/RTPI/Sources-of-Real-Time-Information/" title="Sources of Real Time Information">Sources of Real Time Information</a>
+
+                        </div>
+                        <div id="breadcrumb_right" class="float_right">
+                            <a href="javascript:window.print();">
+                                <img src="/Templates/Public/Styles/Images/icon_print.gif" alt="Print" />
+                            </a>
+                        </div>
+                    </div>
+                    <div id="content">
+                        
+    <div id="content2">
+        <div id="routeplanner_column_left">
+            
+    <script type="text/javascript">
+        function OnClientItemsRequesting_DubBus_RealTimeSearch(sender, eventArgs) {
+            var context = eventArgs.get_context();
+            context["Filter"] = sender.get_text();
+            context["MinStringLength"] = 2;
+        }
+    </script>
+
+
+<div class="box_route">
+    <div class="box_route_top">
+        Search Criteria
+        <div class="icon-info">
+            <a id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeSearch1_HyperLinkToLandingPage" href="/en/RTPI/"><img src="/Templates/Public/Styles/Images/icon-info.png" alt="RTPI Info" /></a></div>
+     </div>
+    <!-- start -->
+    <div id="route-selection">
+        <div class="option">
+            <div id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeSearch1_radComboBoxStop" class="RadComboBox RadComboBox_Default control" style="font-style:normal;width:180px;display:-moz-inline-stack;display:inline-block;zoom:1;*display:inline;margin-left:-1px;margin-right:-1px;white-space:normal;">
+	<table cellpadding="0" cellspacing="0" summary="combobox" border="0" style="border-width:0;">
+		<tr>
+			<td class="rcbInputCell rcbInputCellLeft" style="width:100%;"><input name="ctl00$FullRegion$MainRegion$ContentColumns_holder$RealTimeSearch1$radComboBoxStop" type="text" class="rcbInput rcbEmptyMessage" id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeSearch1_radComboBoxStop_Input" value="Search by Bus Stop Number" /></td><td class="rcbArrowCell rcbArrowCellRight"><a id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeSearch1_radComboBoxStop_Arrow" style="overflow: hidden;display: block;position: relative;outline: none;">select</a></td>
+		</tr>
+	</table><!-- 2009.3.1314.20 --><div class="rcbSlide" style="z-index:6000;"><div id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeSearch1_radComboBoxStop_DropDown" class="RadComboBoxDropDown RadComboBoxDropDown_Default " style="display:none;width:220px;"><div class="rcbScroll rcbWidth" style="height:200px;width:100%;"></div><div class="rcbMoreResults" id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeSearch1_radComboBoxStop_MoreResultsBox"><a id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeSearch1_radComboBoxStop_MoreResultsBoxImage">select</a><span></span></div></div></div><input id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeSearch1_radComboBoxStop_ClientState" name="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeSearch1_radComboBoxStop_ClientState" type="hidden" />
+</div>
+            <div class="go">
+                <a id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeSearch1_lnkbSNStop" href="javascript:__doPostBack('ctl00$FullRegion$MainRegion$ContentColumns_holder$RealTimeSearch1$lnkbSNStop','')"></a>
+            </div>
+            <br class="clear_both" />
+        </div>
+        <div id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeSearch1_Panel1" class="option" onkeypress="javascript:return WebForm_FireDefaultButton(event, 'ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeSearch1_lnkbSNAddress')">
+	
+        <div class="control">
+                <span id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeSearch1_radTextBoxAddress_wrapper" class="RadInput RadInput_Default" style="white-space:normal;"><input value="Search by Bus Stop Address" type="text" size="20" id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeSearch1_radTextBoxAddress_text" name="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeSearch1_radTextBoxAddress_text" class="riTextBox riEmpty" style="width:168px;" /><input id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeSearch1_radTextBoxAddress" name="ctl00$FullRegion$MainRegion$ContentColumns_holder$RealTimeSearch1$radTextBoxAddress" class="rdfd_" style="visibility:hidden;margin:-18px 0 0 -1px;width:1px;height:1px;overflow:hidden;border:0;padding:0;" type="text" value="" /><input id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeSearch1_radTextBoxAddress_ClientState" name="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeSearch1_radTextBoxAddress_ClientState" type="hidden" /></span>
+            </div>
+            <div class="go">
+                <a id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeSearch1_lnkbSNAddress" href="javascript:__doPostBack('ctl00$FullRegion$MainRegion$ContentColumns_holder$RealTimeSearch1$lnkbSNAddress','')"></a>
+            </div>
+            <br class="clear_both" />
+        
+</div>
+        <div class="option">
+            <div id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeSearch1_radComboBoxRoute" class="RadComboBox RadComboBox_Default control" style="font-style:normal;width:180px;display:-moz-inline-stack;display:inline-block;zoom:1;*display:inline;margin-left:-1px;margin-right:-1px;white-space:normal;">
+	<table cellpadding="0" cellspacing="0" summary="combobox" border="0" style="border-width:0;">
+		<tr>
+			<td class="rcbInputCell rcbInputCellLeft" style="width:100%;"><input name="ctl00$FullRegion$MainRegion$ContentColumns_holder$RealTimeSearch1$radComboBoxRoute" type="text" class="rcbInput rcbEmptyMessage" id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeSearch1_radComboBoxRoute_Input" value="Search by Bus Route" /></td><td class="rcbArrowCell rcbArrowCellRight"><a id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeSearch1_radComboBoxRoute_Arrow" style="overflow: hidden;display: block;position: relative;outline: none;">select</a></td>
+		</tr>
+	</table><div class="rcbSlide" style="z-index:6000;"><div id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeSearch1_radComboBoxRoute_DropDown" class="RadComboBoxDropDown RadComboBoxDropDown_Default " style="display:none;width:220px;"><div class="rcbScroll rcbWidth" style="height:200px;width:100%;"></div><div class="rcbMoreResults" id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeSearch1_radComboBoxRoute_MoreResultsBox"><a id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeSearch1_radComboBoxRoute_MoreResultsBoxImage">select</a><span></span></div></div></div><input id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeSearch1_radComboBoxRoute_ClientState" name="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeSearch1_radComboBoxRoute_ClientState" type="hidden" />
+</div>
+            <div class="go">
+                <a id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeSearch1_lnkbRNRoute" href="javascript:__doPostBack('ctl00$FullRegion$MainRegion$ContentColumns_holder$RealTimeSearch1$lnkbRNRoute','')"></a></div>
+            <br class="clear_both" />
+        </div>
+        <div class="option-alt">
+			<strong>Still need help searching?</strong>
+            <div class="option-alt-btn">
+    			<a id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeSearch1_LinkButton1" href="javascript:__doPostBack('ctl00$FullRegion$MainRegion$ContentColumns_holder$RealTimeSearch1$LinkButton1','')"><img src="/Templates/Public/Styles/Images/btn-search-map-lower.gif" alt="Search on the Map" /></a>
+    		</div>
+        </div>
+       
+    </div>
+    <!-- -->
+</div>
+
+            <br />
+            <div style="margin-left: 17px;">
+                <a href="http://www.transportforireland.ie/" target="_blank">
+                    <img src="/Templates/Public/Images/TFI-Logo.gif" alt="Transport For Ireland" />
+                </a>
+            </div>
+        </div>
+        <div id="routeplanner_column_right">
+            
+            
+            
+            
+            
+
+
+    <script type="text/JavaScript" language="JavaScript">
+
+        function pageLoad() {
+            var manager = Sys.WebForms.PageRequestManager.getInstance();
+            manager.add_endRequest(endRequest);
+            manager.add_beginRequest(OnBeginRequest);
+        }
+
+        function OnBeginRequest(sender, args) {
+            var postBackElement = args.get_postBackElement();
+            if (postBackElement.id == 'ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeStopInformation1_IntervalTimer') {
+                var $panelUpdate = $get('ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeStopInformation1_upProgress')
+                if ($panelUpdate != null)
+                    $panelUpdate.style.display = "block";
+            }
+        }
+
+        function endRequest(sender, args) {
+            var $panelUpdate = $get('ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeStopInformation1_upProgress')
+            if ($panelUpdate != null)
+                $panelUpdate.style.display = "none";
+        }
+
+        function ShowMapDialog(id, direction, towards, from) {
+            var oWnd = this.open("/en/Examples/Google-Map/?routeNumber=" + id + "&direction=" + direction + "&towards=" + towards + "&from=" + from, "CtrlWindow", "toolbar=no,menubar=no,location=no,scrollbars=yes,resizable=no,left=100,top=100,width=650,height=600");
+            if (window.focus) { oWnd.focus(); }
+        }  
+
+    </script>
+
+
+<div id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeStopInformation1_pnlStopData">
+	
+    <div class="box_route box_route_wide">
+        <!-- -->
+        <span id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeStopInformation1_IntervalTimer" style="visibility:hidden;display:none;"></span>
+        <div id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeStopInformation1_upPanel">
+		
+                <div class="box_route_top" style="position:relative;">
+                    Real Time Information Results
+                    <div style="position:absolute; top:14px; right:150px; font-size:11px;">
+                        <strong style="color:#000;">Last Updated at
+                        21:34:36</strong>
+                    </div>
+                    <div class="refresh">
+                        <a id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeStopInformation1_lbRefresh" title="Refresh for Updates" href="javascript:__doPostBack('ctl00$FullRegion$MainRegion$ContentColumns_holder$RealTimeStopInformation1$lbRefresh','')">Refresh for Updates</a>
+                    </div>
+                </div>
+            <!-- this is the beginning of a table--> 
+            <!-- this is the beginning of a table--> 
+            <!-- this is the beginning of a table--> 
+                <div id="real-time-display">
+                    <div id="stop-detail">
+                        <table>
+                            <tr>
+                                <th width="10%">
+                                    View Map
+                                </th>
+                                <th width="12%">
+                                    Stop Number
+                                </th>
+                                <th>
+                                    Stop Address
+                                </th>
+                            </tr>
+                            <tr>
+                                <td width="10%">
+                                    <a id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeStopInformation1_lbViewOnMap" title="View on map" href="javascript:__doPostBack('ctl00$FullRegion$MainRegion$ContentColumns_holder$RealTimeStopInformation1$lbViewOnMap','')"><img src="/Templates/Public/Styles/Images/icon-rtpi-map.gif" alt="View on Map" /></a>
+                                </td>
+                                <td width="12%">
+                                    <span id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeStopInformation1_lblStopNumber">262</span>
+                                </td>
+                                <td>
+                                    <span id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeStopInformation1_lblStopAddress">Parnell Square, Garden of Remembrance</span>
+                                </td>
+                            </tr>
+                        </table>
+                    </div>
+                    <div id="stop-nums">
+                        <div style="float: left;">
+                            
+                            <a id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeStopInformation1_lbDeselectAllRoutes" title="Deselect All" href="javascript:__doPostBack('ctl00$FullRegion$MainRegion$ContentColumns_holder$RealTimeStopInformation1$lbDeselectAllRoutes','')"><img src="/Templates/Public/Styles/Images/btn-deselect-all.gif" alt="Deselect All" /></a>
+                        </div>
+                        <div style="float: left;">
+                            <table id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeStopInformation1_cblRouteFilter" border="0">
+			<tr>
+				<td><input id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeStopInformation1_cblRouteFilter_0" type="checkbox" name="ctl00$FullRegion$MainRegion$ContentColumns_holder$RealTimeStopInformation1$cblRouteFilter$0" checked="checked" onclick="javascript:setTimeout('__doPostBack(\'ctl00$FullRegion$MainRegion$ContentColumns_holder$RealTimeStopInformation1$cblRouteFilter$0\',\'\')', 0)" /><label for="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeStopInformation1_cblRouteFilter_0">16</label></td><td><input id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeStopInformation1_cblRouteFilter_1" type="checkbox" name="ctl00$FullRegion$MainRegion$ContentColumns_holder$RealTimeStopInformation1$cblRouteFilter$1" checked="checked" onclick="javascript:setTimeout('__doPostBack(\'ctl00$FullRegion$MainRegion$ContentColumns_holder$RealTimeStopInformation1$cblRouteFilter$1\',\'\')', 0)" /><label for="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeStopInformation1_cblRouteFilter_1">16c</label></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+			</tr>
+		</table>
+                        </div>
+                        <div style="clear: both;">
+                        </div>
+                    </div>
+                    <!-- this is the beginning of a table--> 
+                    <!-- this is the beginning of a table--> 
+                    <!-- this is the beginning of a table--> 
+                            <table id="rtpi-results" cellspacing="0">
+                                <tr class="yellow">
+                                    <th width="10%">
+                                        Route
+                                    </th>
+                                    <th width="40%">
+                                        Destination
+                                    </th>
+                                    <th width="20%">
+                                        Expected Time
+                                    </th>
+                                    <th width="30%">
+                                        Notes
+                                    </th>
+                                </tr>
+                        
+                            <tr class="even">
+                                <td>
+                                    16
+                                </td>
+                                <td>
+                                    Ballinteer via O'Connell Street
+                                </td>
+                                <td>
+                                    21:48
+                                </td>
+                                <td>
+                                    <img src="/Templates/Public/Styles/Images/icon-small-accessible.gif" alt="Accessible" class='' />
+                                    
+                                    <img src="/Templates/Public/Styles/Images/icon-small-R-pred.gif" alt="R Prediction" class="display_none" />
+                                    <img src="/Templates/Public/Styles/Images/icon-small-E-pred.gif" alt="E Prediction" class="display_none" />
+                                </td>
+                            </tr>
+                        
+                            <tr class="odd">
+                                <td>
+                                    16
+                                </td>
+                                <td>
+                                    Ballinteer via O'Connell Street
+                                </td>
+                                <td>
+                                    22:01
+                                </td>
+                                <td>
+                                    <img src="/Templates/Public/Styles/Images/icon-small-accessible.gif" alt="Accessible" class='' />
+                                    
+                                    <img src="/Templates/Public/Styles/Images/icon-small-R-pred.gif" alt="R Prediction" class="display_none" />
+                                    <img src="/Templates/Public/Styles/Images/icon-small-E-pred.gif" alt="E Prediction" class="display_none" />
+                                </td>
+                            </tr>
+                        
+                            <tr class="even">
+                                <td>
+                                    16
+                                </td>
+                                <td>
+                                    Ballinteer via O'Connell Street
+                                </td>
+                                <td>
+                                    22:21
+                                </td>
+                                <td>
+                                    <img src="/Templates/Public/Styles/Images/icon-small-accessible.gif" alt="Accessible" class='' />
+                                    
+                                    <img src="/Templates/Public/Styles/Images/icon-small-R-pred.gif" alt="R Prediction" class="display_none" />
+                                    <img src="/Templates/Public/Styles/Images/icon-small-E-pred.gif" alt="E Prediction" class="display_none" />
+                                </td>
+                            </tr>
+                        
+                            </table>
+                            <table id="rtpi-stops-key">
+                                <tr>
+                                    <td>
+                                        <img src="/Templates/Public/Styles/Images/icon-small-accessible.gif" alt="Accessible" />
+                                        Accessible
+                                    </td>
+                                    <td>
+                                        <img src="/Templates/Public/Styles/Images/icon-small-delays.gif" alt="Expected Delays" />
+                                        Expected Delays
+                                    </td>
+                                    <td>
+                                        
+                                        &nbsp;
+                                    </td>
+                                    <td>
+                                        
+                                        &nbsp;
+                                    </td>
+                                </tr>
+                            </table>
+                    <!-- this is the end of a table--> 
+                    <!-- this is the end of a table--> 
+                    <!-- this is the end of a table--> 
+                        
+                    
+            
+	</div>
+    </div>
+    <div style="clear: left; float: left" id="rtpi-additionalroutes">
+        <div class="launch-routes">
+            Display results</div>
+        <div class="close-routes">
+            Close results</div>
+        <div id="rtpi-routes-display">
+            <h3>
+                Timetables and Maps</h3>
+            <p>
+                Some routes may not have Real Time Information available for the time you requested.
+                Below are links to Timetables and Maps for the Routes listed above.</p>
+            
+                    <ul id="route-list" class="overflow">
+                
+                    <li><span>
+                        16</span>
+                        <a href="/en/Your-Journey1/Timetables/All-Timetables/16-/">Timetable</a> | <a style="cursor:pointer;" onclick="ShowMapDialog('16','IO','Ballinteer+(Kingston)','Dublin+Airport');return false;">Map</a>
+                    </li>
+                
+                    <li><span>
+                        16c</span>
+                        <a href="">Timetable</a> | <a style="cursor:pointer;" onclick="ShowMapDialog('16C','IO','Ballinteer+or+Airport','City+Centre');return false;">Map</a>
+                    </li>
+                
+                    </ul>
+                
+        </div>
+    </div>
+
+</div>
+<div id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeStopInformation1_upProgress" style="display:none;">
+	
+        <div id="loadingMessage" style="position: absolute; z-index: 1000; text-align: center;
+            top: 50%; left: 55%;">
+            <h2>
+                Loading Data</h2>
+            <img src="/Images/ajax-loader.gif" alt="Loading..." />
+        </div>
+    
+</div>
+
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        $(".close-routes").hide();
+        $(".launch-routes").click(function() {
+            $("#rtpi-routes-display").slideDown("slow");
+            $(".launch-routes").hide();
+            $(".close-routes").show();
+        });
+        $(".close-routes").click(function() {
+            $("#rtpi-routes-display").slideUp("slow");
+            $(".close-routes").hide();
+            $(".launch-routes").show();
+        });
+    });
+</script>
+
+
+            
+        </div>
+        <div class="clear_both">
+        </div>
+    </div>
+
+                    </div>
+                
+                
+<div id="bottom_links">
+    <div class="bottom_links_column">
+        <div class="bottom_links_column_title">
+            Quick Links
+        </div>
+        
+                <ul>
+            
+                <li><a title='Timetables' href='/Your-Journey1/Timetables/'>
+                    Timetables
+                </a></li>
+            
+                <li><a title='Bustxt' href='/Your-Journey1/Bustxt/'>
+                    Bustxt
+                </a></li>
+            
+                <li><a title='City Centre Fare' href='/Fares--Tickets/City-Centre/'>
+                    City Centre Fare
+                </a></li>
+            
+                <li><a title='A to Z Finder' href='/Your-Journey1/Timetables/A-to-Z-Destination-Finder/'>
+                    A to Z Finder
+                </a></li>
+            
+                </ul>
+            
+    </div>
+    <div class="bottom_links_column">
+        <div class="bottom_links_column_title">
+            Quick Links</div>
+        
+                <ul>
+            
+                <li><a title='About Us' href='/About-Us/'>
+                    About Us
+                </a></li>
+            
+                <li><a title='Human Resources' href='/Human-Resources/'>
+                    Human Resources
+                </a></li>
+            
+                <li><a title='Projects' href='/About-Us/Projects/'>
+                    Projects
+                </a></li>
+            
+                <li><a title='Code of Ethics' href='/About-Us/Code-of-Ethic/'>
+                    Code of Ethics
+                </a></li>
+            
+                </ul>
+            
+    </div>
+    <div class="bottom_links_column">
+        <div class="bottom_links_column_title">
+            Quick Links
+        </div>
+        
+                <ul>
+            
+                <li><a title='Fares and Tickets' href='/Fares--Tickets/'>
+                    Fares and Tickets
+                </a></li>
+            
+                <li><a title='Tourist Information' href='/Your-Journey1/Tourist-Information/'>
+                    Tourist Information
+                </a></li>
+            
+                <li><a title='City Centre Bus Stops' href='/Your-Journey1/City-Centre-Bus-Stops/'>
+                    City Centre Bus Stops
+                </a></li>
+            
+                <li><a title='Airport Services' href='/Your-Journey1/Timetables/Airport-Services/'>
+                    Airport Services
+                </a></li>
+            
+                </ul>
+            
+    </div>
+    <div class="bottom_links_column">
+        <div class="bottom_links_column_title">
+            Quick Links
+        </div>
+        
+                <ul>
+            
+                <li><a title='Contact Us' href='/Contact-Us1/'>
+                    Contact Us
+                </a></li>
+            
+                <li><a title='News Centre' href='/News-Centre/'>
+                    News Centre
+                </a></li>
+            
+                <li><a title='Free Travel Scheme ' href='/Fares--Tickets/Free-Travel-Scheme-/'>
+                    Free Travel Scheme 
+                </a></li>
+            
+                <li><a title='Passenger Safety ' href='/Your-Journey1/Passenger-Safety-/'>
+                    Passenger Safety 
+                </a></li>
+            
+                </ul>
+            
+    </div>
+    <div class="clear_both">
+    </div>
+</div>
+<div id="footer">
+    <div id="footerImage">
+        <img alt="" src="/Templates/Public/Styles/Images/TFILogo.jpg" />
+    </div>
+    <div id="footer_left">
+        <!-- hardcode inactive links for 'display' now; add control later -->
+        <ul>
+            <li id="ctl00_FullRegion_PageFooter1_Li1" class="first">
+                <a id="ctl00_FullRegion_PageFooter1_HyperLinkAccessibility" href="/en/Your-Journey1/Accessibility/">Accessibility</a>
+            </li>
+            <li id="ctl00_FullRegion_PageFooter1_Li2">
+                <a id="ctl00_FullRegion_PageFooter1_HyperLinkPrivacy" href="/en/Privacy/">Privacy</a>
+            </li>
+            
+            <li id="ctl00_FullRegion_PageFooter1_Li4">
+                <a id="ctl00_FullRegion_PageFooter1_HyperLinkLegal" href="/en/Legal/">Legal</a>
+            </li>
+            <li id="ctl00_FullRegion_PageFooter1_Li5">
+                <a id="ctl00_FullRegion_PageFooter1_HyperLinkSitemap" href="/en/Sitemap/">Sitemap</a>
+            </li>
+        </ul>
+        Customer Services: 
+        +353 (01) 8734222
+    </div>
+    <div id="footer_right">
+        Designed &amp; Developed by <a href="http://www.biznetiis.com" target="_blank">i3 Digital</a>
+    </div>
+    <div class="clear_both">
+    </div>
+</div>
+
+<script type="text/javascript">
+    $(document).ready(function(e) {
+        $(document).cookiecompliancy({
+            type: 'bottom',
+            location: 'right',
+            color: 'black',
+            modalAnimationType: 'fade',
+            desc: '<p>We use cookies to improve your experience on the website.</p>',
+            modalLongDesc: '<p>Some cookies are required to ensure that the site functions correctly, for this reason we may have already set some cookies.</p><p>Other cookies gather anonymous data about how you are using the website, however these will only be set if you give your consent.</p><p><strong><a href=\'/cookiepolicy\'>Read our cookie policy</a></strong></p>',
+            modalTitle: 'Cookie Compliancy'
+        });
+    });
+</script>
+
+
+            
+        </div>
+    </div>
+    
+
+<script type="text/javascript">
+//<![CDATA[
+Sys.Application.initialize();
+
+WebForm_InitCallback();Sys.Application.add_init(function() {
+    $create(Telerik.Web.UI.RadComboBox, {"_dropDownWidth":220,"_height":200,"_isAspNet35":true,"_showMoreResultsBox":true,"_skin":"Default","_uniqueId":"ctl00$FullRegion$MainRegion$ContentColumns_holder$RealTimeSearch1$radComboBoxStop","_virtualScroll":true,"clientStateFieldID":"ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeSearch1_radComboBoxStop_ClientState","collapseAnimation":"{\"duration\":450}","emptyMessage":"Search by Bus Stop Number","enableLoadOnDemand":true,"expandAnimation":"{\"duration\":450}","filter":1,"itemData":[],"itemRequestTimeout":500,"markFirstMatch":true,"webServiceSettings":"{\"path\":\"/Templates/public/RoutePlannerService/RTPIWebServiceProxy.asmx\",\"method\":\"GetTerritories\"}"}, {"itemsRequesting":OnClientItemsRequesting_DubBus_RealTimeSearch}, null, $get("ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeSearch1_radComboBoxStop"));
+});
+Sys.Application.add_init(function() {
+    $create(Telerik.Web.UI.RadTextBox, {"_enableOldBoxModel":false,"_focused":false,"_postBackEventReferenceScript":"setTimeout(\"__doPostBack(\\\u0027ctl00$FullRegion$MainRegion$ContentColumns_holder$RealTimeSearch1$radTextBoxAddress\\\u0027,\\\u0027\\\u0027)\", 0)","_shouldResetWidthInPixels":true,"clientStateFieldID":"ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeSearch1_radTextBoxAddress_ClientState","emptyMessage":"Search by Bus Stop Address","enabled":true,"styles":{HoveredStyle: ["width:168px;", "riTextBox riHover"],InvalidStyle: ["width:168px;", "riTextBox riError"],DisabledStyle: ["width:168px;", "riTextBox riDisabled"],FocusedStyle: ["width:168px;", "riTextBox riFocused"],EmptyMessageStyle: ["width:168px;", "riTextBox riEmpty"],ReadOnlyStyle: ["width:168px;", "riTextBox riRead"],EnabledStyle: ["width:168px;", "riTextBox riEnabled"]}}, null, null, $get("ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeSearch1_radTextBoxAddress"));
+});
+Sys.Application.add_init(function() {
+    $create(Telerik.Web.UI.RadComboBox, {"_dropDownWidth":220,"_height":200,"_isAspNet35":true,"_showMoreResultsBox":true,"_skin":"Default","_uniqueId":"ctl00$FullRegion$MainRegion$ContentColumns_holder$RealTimeSearch1$radComboBoxRoute","_virtualScroll":true,"clientStateFieldID":"ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeSearch1_radComboBoxRoute_ClientState","collapseAnimation":"{\"duration\":450}","emptyMessage":"Search by Bus Route","enableLoadOnDemand":true,"expandAnimation":"{\"duration\":450}","filter":1,"itemData":[],"itemRequestTimeout":500,"markFirstMatch":true,"webServiceSettings":"{\"path\":\"/Templates/public/RoutePlannerService/RTPIWebServiceProxy.asmx\",\"method\":\"GetRoutesViaService\"}"}, {"itemsRequesting":OnClientItemsRequesting_DubBus_RealTimeSearch}, null, $get("ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeSearch1_radComboBoxRoute"));
+});
+Sys.Application.add_init(function() {
+    $create(Sys.UI._Timer, {"enabled":false,"interval":60000,"uniqueID":"ctl00$FullRegion$MainRegion$ContentColumns_holder$RealTimeStopInformation1$IntervalTimer"}, null, null, $get("ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeStopInformation1_IntervalTimer"));
+});
+Sys.Application.add_init(function() {
+    $create(Sys.UI._UpdateProgress, {"associatedUpdatePanelId":"ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeStopInformation1_upPanel","displayAfter":0,"dynamicLayout":true}, null, null, $get("ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeStopInformation1_upProgress"));
+});
+//]]>
+</script>
+</div></form>
+    
+
+    <script type="text/javascript">
+
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-8523338-1']);
+        _gaq.push(['_trackPageview']);
+
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+
+    <script type="text/javascript">
+        try {
+            var pageTracker = _gat._getTracker("UA-8523338-1");
+            pageTracker._trackPageview();
+        }
+        catch (err) {
+        }
+    </script>
+
+</body>
+</html>

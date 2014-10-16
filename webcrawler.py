@@ -61,5 +61,8 @@ def crawl(url, opt):
 
 
 ## Let's make our webcrawler busy ##
-
+# to do:
+# add wait method (wait for 60 seconds)
+# while loop
+#
 crawl('http://www.dublinbus.ie/en/RTPI/Sources-of-Real-Time-Information/?searchtype=view&searchquery=262', 2)

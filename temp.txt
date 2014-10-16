@@ -242,3 +242,4131 @@
 ================== end of table ==================
 
 >>>>>>>>>>>>>Timestamp: 2014-10-16 01:00:19 <<<<<<<<<<<<<<<<<
+
+
+>>>>>>>>>>>>>Timestamp: 2014-10-16 09:01:13 <<<<<<<<<<<<<<<<<
+
+================== [raw] stop number and description ==================
+<div id="stop-detail">
+ <table>
+  <tr>
+   <th width="10%">
+    View Map
+   </th>
+   <th width="12%">
+    Stop Number
+   </th>
+   <th>
+    Stop Address
+   </th>
+  </tr>
+  <tr>
+   <td width="10%">
+    <a href="javascript:__doPostBack('ctl00$FullRegion$MainRegion$ContentColumns_holder$RealTimeStopInformation1$lbViewOnMap','')" id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeStopInformation1_lbViewOnMap" title="View on map">
+     <img alt="View on Map" src="/Templates/Public/Styles/Images/icon-rtpi-map.gif"/>
+    </a>
+   </td>
+   <td width="12%">
+    <span id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeStopInformation1_lblStopNumber">
+     262
+    </span>
+   </td>
+   <td>
+    <span id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeStopInformation1_lblStopAddress">
+     Parnell Square, Garden of Remembrance
+    </span>
+   </td>
+  </tr>
+ </table>
+</div>
+
+================== [raw] bus real time ==================
+<table cellspacing="0" id="rtpi-results">
+ <tr class="yellow">
+  <th width="10%">
+   Route
+  </th>
+  <th width="40%">
+   Destination
+  </th>
+  <th width="20%">
+   Expected Time
+  </th>
+  <th width="30%">
+   Notes
+  </th>
+ </tr>
+ <tr class="even">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   09:12
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+ <tr class="odd">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   09:15
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+ <tr class="even">
+  <td>
+   16c
+  </td>
+  <td>
+   O'Connell Street
+  </td>
+  <td>
+   09:22
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+ <tr class="odd">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   09:30
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+ <tr class="even">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   09:49
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+</table>
+
+================== end of table ==================
+
+>>>>>>>>>>>>>Timestamp: 2014-10-16 09:01:13 <<<<<<<<<<<<<<<<<
+
+
+>>>>>>>>>>>>>Timestamp: 2014-10-16 09:07:08 <<<<<<<<<<<<<<<<<
+
+================== [raw] stop number and description ==================
+<div id="stop-detail">
+ <table>
+  <tr>
+   <th width="10%">
+    View Map
+   </th>
+   <th width="12%">
+    Stop Number
+   </th>
+   <th>
+    Stop Address
+   </th>
+  </tr>
+  <tr>
+   <td width="10%">
+    <a href="javascript:__doPostBack('ctl00$FullRegion$MainRegion$ContentColumns_holder$RealTimeStopInformation1$lbViewOnMap','')" id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeStopInformation1_lbViewOnMap" title="View on map">
+     <img alt="View on Map" src="/Templates/Public/Styles/Images/icon-rtpi-map.gif"/>
+    </a>
+   </td>
+   <td width="12%">
+    <span id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeStopInformation1_lblStopNumber">
+     262
+    </span>
+   </td>
+   <td>
+    <span id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeStopInformation1_lblStopAddress">
+     Parnell Square, Garden of Remembrance
+    </span>
+   </td>
+  </tr>
+ </table>
+</div>
+
+================== [raw] bus real time ==================
+<table cellspacing="0" id="rtpi-results">
+ <tr class="yellow">
+  <th width="10%">
+   Route
+  </th>
+  <th width="40%">
+   Destination
+  </th>
+  <th width="20%">
+   Expected Time
+  </th>
+  <th width="30%">
+   Notes
+  </th>
+ </tr>
+ <tr class="even">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   09:12
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+ <tr class="odd">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   09:17
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+ <tr class="even">
+  <td>
+   16c
+  </td>
+  <td>
+   O'Connell Street
+  </td>
+  <td>
+   09:24
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+ <tr class="odd">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   09:31
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+ <tr class="even">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   09:51
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+</table>
+
+================== end of table ==================
+
+>>>>>>>>>>>>>Timestamp: 2014-10-16 09:07:08 <<<<<<<<<<<<<<<<<
+
+
+>>>>>>>>>>>>>Timestamp: 2014-10-16 09:08:28 <<<<<<<<<<<<<<<<<
+
+================== [raw] stop number and description ==================
+
+
+>>>>>>>>>>>>>Timestamp: 2014-10-16 09:09:40 <<<<<<<<<<<<<<<<<
+
+================== [raw] stop number and description ==================
+<div id="stop-detail">
+ <table>
+  <tr>
+   <th width="10%">
+    View Map
+   </th>
+   <th width="12%">
+    Stop Number
+   </th>
+   <th>
+    Stop Address
+   </th>
+  </tr>
+  <tr>
+   <td width="10%">
+    <a href="javascript:__doPostBack('ctl00$FullRegion$MainRegion$ContentColumns_holder$RealTimeStopInformation1$lbViewOnMap','')" id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeStopInformation1_lbViewOnMap" title="View on map">
+     <img alt="View on Map" src="/Templates/Public/Styles/Images/icon-rtpi-map.gif"/>
+    </a>
+   </td>
+   <td width="12%">
+    <span id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeStopInformation1_lblStopNumber">
+     262
+    </span>
+   </td>
+   <td>
+    <span id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeStopInformation1_lblStopAddress">
+     Parnell Square, Garden of Remembrance
+    </span>
+   </td>
+  </tr>
+ </table>
+</div>
+
+================== [raw] bus real time ==================
+<table cellspacing="0" id="rtpi-results">
+ <tr class="yellow">
+  <th width="10%">
+   Route
+  </th>
+  <th width="40%">
+   Destination
+  </th>
+  <th width="20%">
+   Expected Time
+  </th>
+  <th width="30%">
+   Notes
+  </th>
+ </tr>
+ <tr class="even">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   09:12
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+ <tr class="odd">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   09:17
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+ <tr class="even">
+  <td>
+   16c
+  </td>
+  <td>
+   O'Connell Street
+  </td>
+  <td>
+   09:25
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+ <tr class="odd">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   09:31
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+ <tr class="even">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   09:51
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+ <tr class="odd">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   10:09
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+</table>
+
+================== end of table ==================
+
+>>>>>>>>>>>>>Timestamp: 2014-10-16 09:09:40 <<<<<<<<<<<<<<<<<
+
+
+>>>>>>>>>>>>>Timestamp: 2014-10-16 09:39:41 <<<<<<<<<<<<<<<<<
+
+================== [raw] stop number and description ==================
+<div id="stop-detail">
+ <table>
+  <tr>
+   <th width="10%">
+    View Map
+   </th>
+   <th width="12%">
+    Stop Number
+   </th>
+   <th>
+    Stop Address
+   </th>
+  </tr>
+  <tr>
+   <td width="10%">
+    <a href="javascript:__doPostBack('ctl00$FullRegion$MainRegion$ContentColumns_holder$RealTimeStopInformation1$lbViewOnMap','')" id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeStopInformation1_lbViewOnMap" title="View on map">
+     <img alt="View on Map" src="/Templates/Public/Styles/Images/icon-rtpi-map.gif"/>
+    </a>
+   </td>
+   <td width="12%">
+    <span id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeStopInformation1_lblStopNumber">
+     262
+    </span>
+   </td>
+   <td>
+    <span id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeStopInformation1_lblStopAddress">
+     Parnell Square, Garden of Remembrance
+    </span>
+   </td>
+  </tr>
+ </table>
+</div>
+
+================== [raw] bus real time ==================
+<table cellspacing="0" id="rtpi-results">
+ <tr class="yellow">
+  <th width="10%">
+   Route
+  </th>
+  <th width="40%">
+   Destination
+  </th>
+  <th width="20%">
+   Expected Time
+  </th>
+  <th width="30%">
+   Notes
+  </th>
+ </tr>
+ <tr class="even">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   Due
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+ <tr class="odd">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   22:01
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+ <tr class="even">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   22:21
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+ <tr class="odd">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   22:41
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+</table>
+
+================== end of table ==================
+
+>>>>>>>>>>>>>Timestamp: 2014-10-16 09:39:41 <<<<<<<<<<<<<<<<<
+
+
+>>>>>>>>>>>>>Timestamp: 2014-10-16 09:53:47 <<<<<<<<<<<<<<<<<
+
+================== [raw] stop number and description ==================
+<div id="stop-detail">
+ <table>
+  <tr>
+   <th width="10%">
+    View Map
+   </th>
+   <th width="12%">
+    Stop Number
+   </th>
+   <th>
+    Stop Address
+   </th>
+  </tr>
+  <tr>
+   <td width="10%">
+    <a href="javascript:__doPostBack('ctl00$FullRegion$MainRegion$ContentColumns_holder$RealTimeStopInformation1$lbViewOnMap','')" id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeStopInformation1_lbViewOnMap" title="View on map">
+     <img alt="View on Map" src="/Templates/Public/Styles/Images/icon-rtpi-map.gif"/>
+    </a>
+   </td>
+   <td width="12%">
+    <span id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeStopInformation1_lblStopNumber">
+     262
+    </span>
+   </td>
+   <td>
+    <span id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeStopInformation1_lblStopAddress">
+     Parnell Square, Garden of Remembrance
+    </span>
+   </td>
+  </tr>
+ </table>
+</div>
+
+================== [raw] bus real time ==================
+<table cellspacing="0" id="rtpi-results">
+ <tr class="yellow">
+  <th width="10%">
+   Route
+  </th>
+  <th width="40%">
+   Destination
+  </th>
+  <th width="20%">
+   Expected Time
+  </th>
+  <th width="30%">
+   Notes
+  </th>
+ </tr>
+ <tr class="even">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   Due
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+ <tr class="odd">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   22:01
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+ <tr class="even">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   22:21
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+ <tr class="odd">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   22:41
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+</table>
+
+================== end of table ==================
+
+>>>>>>>>>>>>>Timestamp: 2014-10-16 09:53:47 <<<<<<<<<<<<<<<<<
+
+
+>>>>>>>>>>>>>Timestamp: 2014-10-16 09:55:49 <<<<<<<<<<<<<<<<<
+
+================== [raw] stop number and description ==================
+<div id="stop-detail">
+ <table>
+  <tr>
+   <th width="10%">
+    View Map
+   </th>
+   <th width="12%">
+    Stop Number
+   </th>
+   <th>
+    Stop Address
+   </th>
+  </tr>
+  <tr>
+   <td width="10%">
+    <a href="javascript:__doPostBack('ctl00$FullRegion$MainRegion$ContentColumns_holder$RealTimeStopInformation1$lbViewOnMap','')" id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeStopInformation1_lbViewOnMap" title="View on map">
+     <img alt="View on Map" src="/Templates/Public/Styles/Images/icon-rtpi-map.gif"/>
+    </a>
+   </td>
+   <td width="12%">
+    <span id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeStopInformation1_lblStopNumber">
+     262
+    </span>
+   </td>
+   <td>
+    <span id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeStopInformation1_lblStopAddress">
+     Parnell Square, Garden of Remembrance
+    </span>
+   </td>
+  </tr>
+ </table>
+</div>
+
+================== [raw] bus real time ==================
+<table cellspacing="0" id="rtpi-results">
+ <tr class="yellow">
+  <th width="10%">
+   Route
+  </th>
+  <th width="40%">
+   Destination
+  </th>
+  <th width="20%">
+   Expected Time
+  </th>
+  <th width="30%">
+   Notes
+  </th>
+ </tr>
+ <tr class="even">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   Due
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+ <tr class="odd">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   22:01
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+ <tr class="even">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   22:21
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+ <tr class="odd">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   22:41
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+</table>
+
+================== end of table ==================
+
+>>>>>>>>>>>>>Timestamp: 2014-10-16 09:55:49 <<<<<<<<<<<<<<<<<
+
+
+>>>>>>>>>>>>>Timestamp: 2014-10-16 09:55:59 <<<<<<<<<<<<<<<<<
+
+================== [raw] stop number and description ==================
+<div id="stop-detail">
+ <table>
+  <tr>
+   <th width="10%">
+    View Map
+   </th>
+   <th width="12%">
+    Stop Number
+   </th>
+   <th>
+    Stop Address
+   </th>
+  </tr>
+  <tr>
+   <td width="10%">
+    <a href="javascript:__doPostBack('ctl00$FullRegion$MainRegion$ContentColumns_holder$RealTimeStopInformation1$lbViewOnMap','')" id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeStopInformation1_lbViewOnMap" title="View on map">
+     <img alt="View on Map" src="/Templates/Public/Styles/Images/icon-rtpi-map.gif"/>
+    </a>
+   </td>
+   <td width="12%">
+    <span id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeStopInformation1_lblStopNumber">
+     262
+    </span>
+   </td>
+   <td>
+    <span id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeStopInformation1_lblStopAddress">
+     Parnell Square, Garden of Remembrance
+    </span>
+   </td>
+  </tr>
+ </table>
+</div>
+
+================== [raw] bus real time ==================
+<table cellspacing="0" id="rtpi-results">
+ <tr class="yellow">
+  <th width="10%">
+   Route
+  </th>
+  <th width="40%">
+   Destination
+  </th>
+  <th width="20%">
+   Expected Time
+  </th>
+  <th width="30%">
+   Notes
+  </th>
+ </tr>
+ <tr class="even">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   Due
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+ <tr class="odd">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   22:01
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+ <tr class="even">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   22:21
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+ <tr class="odd">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   22:41
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+</table>
+
+================== end of table ==================
+
+>>>>>>>>>>>>>Timestamp: 2014-10-16 09:55:59 <<<<<<<<<<<<<<<<<
+
+
+>>>>>>>>>>>>>Timestamp: 2014-10-16 10:01:19 <<<<<<<<<<<<<<<<<
+
+================== [raw] stop number and description ==================
+<div id="stop-detail">
+ <table>
+  <tr>
+   <th width="10%">
+    View Map
+   </th>
+   <th width="12%">
+    Stop Number
+   </th>
+   <th>
+    Stop Address
+   </th>
+  </tr>
+  <tr>
+   <td width="10%">
+    <a href="javascript:__doPostBack('ctl00$FullRegion$MainRegion$ContentColumns_holder$RealTimeStopInformation1$lbViewOnMap','')" id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeStopInformation1_lbViewOnMap" title="View on map">
+     <img alt="View on Map" src="/Templates/Public/Styles/Images/icon-rtpi-map.gif"/>
+    </a>
+   </td>
+   <td width="12%">
+    <span id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeStopInformation1_lblStopNumber">
+     262
+    </span>
+   </td>
+   <td>
+    <span id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeStopInformation1_lblStopAddress">
+     Parnell Square, Garden of Remembrance
+    </span>
+   </td>
+  </tr>
+ </table>
+</div>
+
+================== [raw] bus real time ==================
+<table cellspacing="0" id="rtpi-results">
+ <tr class="yellow">
+  <th width="10%">
+   Route
+  </th>
+  <th width="40%">
+   Destination
+  </th>
+  <th width="20%">
+   Expected Time
+  </th>
+  <th width="30%">
+   Notes
+  </th>
+ </tr>
+ <tr class="even">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   Due
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+ <tr class="odd">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   22:01
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+ <tr class="even">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   22:21
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+ <tr class="odd">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   22:41
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+</table>
+
+================== end of table ==================
+
+>>>>>>>>>>>>>Timestamp: 2014-10-16 10:01:19 <<<<<<<<<<<<<<<<<
+
+
+>>>>>>>>>>>>>Timestamp: 2014-10-16 10:02:04 <<<<<<<<<<<<<<<<<
+
+================== [raw] stop number and description ==================
+<div id="stop-detail">
+ <table>
+  <tr>
+   <th width="10%">
+    View Map
+   </th>
+   <th width="12%">
+    Stop Number
+   </th>
+   <th>
+    Stop Address
+   </th>
+  </tr>
+  <tr>
+   <td width="10%">
+    <a href="javascript:__doPostBack('ctl00$FullRegion$MainRegion$ContentColumns_holder$RealTimeStopInformation1$lbViewOnMap','')" id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeStopInformation1_lbViewOnMap" title="View on map">
+     <img alt="View on Map" src="/Templates/Public/Styles/Images/icon-rtpi-map.gif"/>
+    </a>
+   </td>
+   <td width="12%">
+    <span id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeStopInformation1_lblStopNumber">
+     262
+    </span>
+   </td>
+   <td>
+    <span id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeStopInformation1_lblStopAddress">
+     Parnell Square, Garden of Remembrance
+    </span>
+   </td>
+  </tr>
+ </table>
+</div>
+
+================== [raw] bus real time ==================
+<table cellspacing="0" id="rtpi-results">
+ <tr class="yellow">
+  <th width="10%">
+   Route
+  </th>
+  <th width="40%">
+   Destination
+  </th>
+  <th width="20%">
+   Expected Time
+  </th>
+  <th width="30%">
+   Notes
+  </th>
+ </tr>
+ <tr class="even">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   Due
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+ <tr class="odd">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   22:01
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+ <tr class="even">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   22:21
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+ <tr class="odd">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   22:41
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+</table>
+
+================== end of table ==================
+
+>>>>>>>>>>>>>Timestamp: 2014-10-16 10:02:04 <<<<<<<<<<<<<<<<<
+
+
+>>>>>>>>>>>>>Timestamp: 2014-10-16 10:02:09 <<<<<<<<<<<<<<<<<
+
+================== [raw] stop number and description ==================
+<div id="stop-detail">
+ <table>
+  <tr>
+   <th width="10%">
+    View Map
+   </th>
+   <th width="12%">
+    Stop Number
+   </th>
+   <th>
+    Stop Address
+   </th>
+  </tr>
+  <tr>
+   <td width="10%">
+    <a href="javascript:__doPostBack('ctl00$FullRegion$MainRegion$ContentColumns_holder$RealTimeStopInformation1$lbViewOnMap','')" id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeStopInformation1_lbViewOnMap" title="View on map">
+     <img alt="View on Map" src="/Templates/Public/Styles/Images/icon-rtpi-map.gif"/>
+    </a>
+   </td>
+   <td width="12%">
+    <span id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeStopInformation1_lblStopNumber">
+     262
+    </span>
+   </td>
+   <td>
+    <span id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeStopInformation1_lblStopAddress">
+     Parnell Square, Garden of Remembrance
+    </span>
+   </td>
+  </tr>
+ </table>
+</div>
+
+================== [raw] bus real time ==================
+<table cellspacing="0" id="rtpi-results">
+ <tr class="yellow">
+  <th width="10%">
+   Route
+  </th>
+  <th width="40%">
+   Destination
+  </th>
+  <th width="20%">
+   Expected Time
+  </th>
+  <th width="30%">
+   Notes
+  </th>
+ </tr>
+ <tr class="even">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   Due
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+ <tr class="odd">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   22:01
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+ <tr class="even">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   22:21
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+ <tr class="odd">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   22:41
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+</table>
+
+================== end of table ==================
+
+>>>>>>>>>>>>>Timestamp: 2014-10-16 10:02:09 <<<<<<<<<<<<<<<<<
+
+
+>>>>>>>>>>>>>Timestamp: 2014-10-16 10:02:14 <<<<<<<<<<<<<<<<<
+
+================== [raw] stop number and description ==================
+<div id="stop-detail">
+ <table>
+  <tr>
+   <th width="10%">
+    View Map
+   </th>
+   <th width="12%">
+    Stop Number
+   </th>
+   <th>
+    Stop Address
+   </th>
+  </tr>
+  <tr>
+   <td width="10%">
+    <a href="javascript:__doPostBack('ctl00$FullRegion$MainRegion$ContentColumns_holder$RealTimeStopInformation1$lbViewOnMap','')" id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeStopInformation1_lbViewOnMap" title="View on map">
+     <img alt="View on Map" src="/Templates/Public/Styles/Images/icon-rtpi-map.gif"/>
+    </a>
+   </td>
+   <td width="12%">
+    <span id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeStopInformation1_lblStopNumber">
+     262
+    </span>
+   </td>
+   <td>
+    <span id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeStopInformation1_lblStopAddress">
+     Parnell Square, Garden of Remembrance
+    </span>
+   </td>
+  </tr>
+ </table>
+</div>
+
+================== [raw] bus real time ==================
+<table cellspacing="0" id="rtpi-results">
+ <tr class="yellow">
+  <th width="10%">
+   Route
+  </th>
+  <th width="40%">
+   Destination
+  </th>
+  <th width="20%">
+   Expected Time
+  </th>
+  <th width="30%">
+   Notes
+  </th>
+ </tr>
+ <tr class="even">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   Due
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+ <tr class="odd">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   22:01
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+ <tr class="even">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   22:21
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+ <tr class="odd">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   22:41
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+</table>
+
+================== end of table ==================
+
+>>>>>>>>>>>>>Timestamp: 2014-10-16 10:02:14 <<<<<<<<<<<<<<<<<
+
+
+>>>>>>>>>>>>>Timestamp: 2014-10-16 10:02:19 <<<<<<<<<<<<<<<<<
+
+================== [raw] stop number and description ==================
+<div id="stop-detail">
+ <table>
+  <tr>
+   <th width="10%">
+    View Map
+   </th>
+   <th width="12%">
+    Stop Number
+   </th>
+   <th>
+    Stop Address
+   </th>
+  </tr>
+  <tr>
+   <td width="10%">
+    <a href="javascript:__doPostBack('ctl00$FullRegion$MainRegion$ContentColumns_holder$RealTimeStopInformation1$lbViewOnMap','')" id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeStopInformation1_lbViewOnMap" title="View on map">
+     <img alt="View on Map" src="/Templates/Public/Styles/Images/icon-rtpi-map.gif"/>
+    </a>
+   </td>
+   <td width="12%">
+    <span id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeStopInformation1_lblStopNumber">
+     262
+    </span>
+   </td>
+   <td>
+    <span id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeStopInformation1_lblStopAddress">
+     Parnell Square, Garden of Remembrance
+    </span>
+   </td>
+  </tr>
+ </table>
+</div>
+
+================== [raw] bus real time ==================
+<table cellspacing="0" id="rtpi-results">
+ <tr class="yellow">
+  <th width="10%">
+   Route
+  </th>
+  <th width="40%">
+   Destination
+  </th>
+  <th width="20%">
+   Expected Time
+  </th>
+  <th width="30%">
+   Notes
+  </th>
+ </tr>
+ <tr class="even">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   Due
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+ <tr class="odd">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   22:01
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+ <tr class="even">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   22:21
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+ <tr class="odd">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   22:41
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+</table>
+
+================== end of table ==================
+
+>>>>>>>>>>>>>Timestamp: 2014-10-16 10:02:19 <<<<<<<<<<<<<<<<<
+
+
+>>>>>>>>>>>>>Timestamp: 2014-10-16 10:02:24 <<<<<<<<<<<<<<<<<
+
+================== [raw] stop number and description ==================
+<div id="stop-detail">
+ <table>
+  <tr>
+   <th width="10%">
+    View Map
+   </th>
+   <th width="12%">
+    Stop Number
+   </th>
+   <th>
+    Stop Address
+   </th>
+  </tr>
+  <tr>
+   <td width="10%">
+    <a href="javascript:__doPostBack('ctl00$FullRegion$MainRegion$ContentColumns_holder$RealTimeStopInformation1$lbViewOnMap','')" id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeStopInformation1_lbViewOnMap" title="View on map">
+     <img alt="View on Map" src="/Templates/Public/Styles/Images/icon-rtpi-map.gif"/>
+    </a>
+   </td>
+   <td width="12%">
+    <span id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeStopInformation1_lblStopNumber">
+     262
+    </span>
+   </td>
+   <td>
+    <span id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeStopInformation1_lblStopAddress">
+     Parnell Square, Garden of Remembrance
+    </span>
+   </td>
+  </tr>
+ </table>
+</div>
+
+================== [raw] bus real time ==================
+<table cellspacing="0" id="rtpi-results">
+ <tr class="yellow">
+  <th width="10%">
+   Route
+  </th>
+  <th width="40%">
+   Destination
+  </th>
+  <th width="20%">
+   Expected Time
+  </th>
+  <th width="30%">
+   Notes
+  </th>
+ </tr>
+ <tr class="even">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   Due
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+ <tr class="odd">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   22:01
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+ <tr class="even">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   22:21
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+ <tr class="odd">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   22:41
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+</table>
+
+================== end of table ==================
+
+>>>>>>>>>>>>>Timestamp: 2014-10-16 10:02:24 <<<<<<<<<<<<<<<<<
+
+
+>>>>>>>>>>>>>Timestamp: 2014-10-16 10:02:37 <<<<<<<<<<<<<<<<<
+
+================== [raw] stop number and description ==================
+<div id="stop-detail">
+ <table>
+  <tr>
+   <th width="10%">
+    View Map
+   </th>
+   <th width="12%">
+    Stop Number
+   </th>
+   <th>
+    Stop Address
+   </th>
+  </tr>
+  <tr>
+   <td width="10%">
+    <a href="javascript:__doPostBack('ctl00$FullRegion$MainRegion$ContentColumns_holder$RealTimeStopInformation1$lbViewOnMap','')" id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeStopInformation1_lbViewOnMap" title="View on map">
+     <img alt="View on Map" src="/Templates/Public/Styles/Images/icon-rtpi-map.gif"/>
+    </a>
+   </td>
+   <td width="12%">
+    <span id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeStopInformation1_lblStopNumber">
+     262
+    </span>
+   </td>
+   <td>
+    <span id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeStopInformation1_lblStopAddress">
+     Parnell Square, Garden of Remembrance
+    </span>
+   </td>
+  </tr>
+ </table>
+</div>
+
+================== [raw] bus real time ==================
+<table cellspacing="0" id="rtpi-results">
+ <tr class="yellow">
+  <th width="10%">
+   Route
+  </th>
+  <th width="40%">
+   Destination
+  </th>
+  <th width="20%">
+   Expected Time
+  </th>
+  <th width="30%">
+   Notes
+  </th>
+ </tr>
+ <tr class="even">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   Due
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+ <tr class="odd">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   22:01
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+ <tr class="even">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   22:21
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+ <tr class="odd">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   22:41
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+</table>
+
+================== end of table ==================
+
+>>>>>>>>>>>>>Timestamp: 2014-10-16 10:02:37 <<<<<<<<<<<<<<<<<
+
+
+>>>>>>>>>>>>>Timestamp: 2014-10-16 10:02:42 <<<<<<<<<<<<<<<<<
+
+================== [raw] stop number and description ==================
+<div id="stop-detail">
+ <table>
+  <tr>
+   <th width="10%">
+    View Map
+   </th>
+   <th width="12%">
+    Stop Number
+   </th>
+   <th>
+    Stop Address
+   </th>
+  </tr>
+  <tr>
+   <td width="10%">
+    <a href="javascript:__doPostBack('ctl00$FullRegion$MainRegion$ContentColumns_holder$RealTimeStopInformation1$lbViewOnMap','')" id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeStopInformation1_lbViewOnMap" title="View on map">
+     <img alt="View on Map" src="/Templates/Public/Styles/Images/icon-rtpi-map.gif"/>
+    </a>
+   </td>
+   <td width="12%">
+    <span id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeStopInformation1_lblStopNumber">
+     262
+    </span>
+   </td>
+   <td>
+    <span id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeStopInformation1_lblStopAddress">
+     Parnell Square, Garden of Remembrance
+    </span>
+   </td>
+  </tr>
+ </table>
+</div>
+
+================== [raw] bus real time ==================
+<table cellspacing="0" id="rtpi-results">
+ <tr class="yellow">
+  <th width="10%">
+   Route
+  </th>
+  <th width="40%">
+   Destination
+  </th>
+  <th width="20%">
+   Expected Time
+  </th>
+  <th width="30%">
+   Notes
+  </th>
+ </tr>
+ <tr class="even">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   Due
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+ <tr class="odd">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   22:01
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+ <tr class="even">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   22:21
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+ <tr class="odd">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   22:41
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+</table>
+
+================== end of table ==================
+
+>>>>>>>>>>>>>Timestamp: 2014-10-16 10:02:42 <<<<<<<<<<<<<<<<<
+
+
+>>>>>>>>>>>>>Timestamp: 2014-10-16 10:02:47 <<<<<<<<<<<<<<<<<
+
+================== [raw] stop number and description ==================
+<div id="stop-detail">
+ <table>
+  <tr>
+   <th width="10%">
+    View Map
+   </th>
+   <th width="12%">
+    Stop Number
+   </th>
+   <th>
+    Stop Address
+   </th>
+  </tr>
+  <tr>
+   <td width="10%">
+    <a href="javascript:__doPostBack('ctl00$FullRegion$MainRegion$ContentColumns_holder$RealTimeStopInformation1$lbViewOnMap','')" id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeStopInformation1_lbViewOnMap" title="View on map">
+     <img alt="View on Map" src="/Templates/Public/Styles/Images/icon-rtpi-map.gif"/>
+    </a>
+   </td>
+   <td width="12%">
+    <span id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeStopInformation1_lblStopNumber">
+     262
+    </span>
+   </td>
+   <td>
+    <span id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeStopInformation1_lblStopAddress">
+     Parnell Square, Garden of Remembrance
+    </span>
+   </td>
+  </tr>
+ </table>
+</div>
+
+================== [raw] bus real time ==================
+<table cellspacing="0" id="rtpi-results">
+ <tr class="yellow">
+  <th width="10%">
+   Route
+  </th>
+  <th width="40%">
+   Destination
+  </th>
+  <th width="20%">
+   Expected Time
+  </th>
+  <th width="30%">
+   Notes
+  </th>
+ </tr>
+ <tr class="even">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   Due
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+ <tr class="odd">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   22:01
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+ <tr class="even">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   22:21
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+ <tr class="odd">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   22:41
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+</table>
+
+================== end of table ==================
+
+>>>>>>>>>>>>>Timestamp: 2014-10-16 10:02:47 <<<<<<<<<<<<<<<<<
+
+
+>>>>>>>>>>>>>Timestamp: 2014-10-16 10:02:52 <<<<<<<<<<<<<<<<<
+
+================== [raw] stop number and description ==================
+<div id="stop-detail">
+ <table>
+  <tr>
+   <th width="10%">
+    View Map
+   </th>
+   <th width="12%">
+    Stop Number
+   </th>
+   <th>
+    Stop Address
+   </th>
+  </tr>
+  <tr>
+   <td width="10%">
+    <a href="javascript:__doPostBack('ctl00$FullRegion$MainRegion$ContentColumns_holder$RealTimeStopInformation1$lbViewOnMap','')" id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeStopInformation1_lbViewOnMap" title="View on map">
+     <img alt="View on Map" src="/Templates/Public/Styles/Images/icon-rtpi-map.gif"/>
+    </a>
+   </td>
+   <td width="12%">
+    <span id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeStopInformation1_lblStopNumber">
+     262
+    </span>
+   </td>
+   <td>
+    <span id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeStopInformation1_lblStopAddress">
+     Parnell Square, Garden of Remembrance
+    </span>
+   </td>
+  </tr>
+ </table>
+</div>
+
+================== [raw] bus real time ==================
+<table cellspacing="0" id="rtpi-results">
+ <tr class="yellow">
+  <th width="10%">
+   Route
+  </th>
+  <th width="40%">
+   Destination
+  </th>
+  <th width="20%">
+   Expected Time
+  </th>
+  <th width="30%">
+   Notes
+  </th>
+ </tr>
+ <tr class="even">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   Due
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+ <tr class="odd">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   22:01
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+ <tr class="even">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   22:21
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+ <tr class="odd">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   22:41
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+</table>
+
+================== end of table ==================
+
+>>>>>>>>>>>>>Timestamp: 2014-10-16 10:02:52 <<<<<<<<<<<<<<<<<
+
+
+>>>>>>>>>>>>>Timestamp: 2014-10-16 10:02:57 <<<<<<<<<<<<<<<<<
+
+================== [raw] stop number and description ==================
+<div id="stop-detail">
+ <table>
+  <tr>
+   <th width="10%">
+    View Map
+   </th>
+   <th width="12%">
+    Stop Number
+   </th>
+   <th>
+    Stop Address
+   </th>
+  </tr>
+  <tr>
+   <td width="10%">
+    <a href="javascript:__doPostBack('ctl00$FullRegion$MainRegion$ContentColumns_holder$RealTimeStopInformation1$lbViewOnMap','')" id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeStopInformation1_lbViewOnMap" title="View on map">
+     <img alt="View on Map" src="/Templates/Public/Styles/Images/icon-rtpi-map.gif"/>
+    </a>
+   </td>
+   <td width="12%">
+    <span id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeStopInformation1_lblStopNumber">
+     262
+    </span>
+   </td>
+   <td>
+    <span id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeStopInformation1_lblStopAddress">
+     Parnell Square, Garden of Remembrance
+    </span>
+   </td>
+  </tr>
+ </table>
+</div>
+
+================== [raw] bus real time ==================
+<table cellspacing="0" id="rtpi-results">
+ <tr class="yellow">
+  <th width="10%">
+   Route
+  </th>
+  <th width="40%">
+   Destination
+  </th>
+  <th width="20%">
+   Expected Time
+  </th>
+  <th width="30%">
+   Notes
+  </th>
+ </tr>
+ <tr class="even">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   Due
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+ <tr class="odd">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   22:01
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+ <tr class="even">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   22:21
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+ <tr class="odd">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   22:41
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+</table>
+
+================== end of table ==================
+
+>>>>>>>>>>>>>Timestamp: 2014-10-16 10:02:57 <<<<<<<<<<<<<<<<<
+
+
+>>>>>>>>>>>>>Timestamp: 2014-10-16 10:03:02 <<<<<<<<<<<<<<<<<
+
+================== [raw] stop number and description ==================
+<div id="stop-detail">
+ <table>
+  <tr>
+   <th width="10%">
+    View Map
+   </th>
+   <th width="12%">
+    Stop Number
+   </th>
+   <th>
+    Stop Address
+   </th>
+  </tr>
+  <tr>
+   <td width="10%">
+    <a href="javascript:__doPostBack('ctl00$FullRegion$MainRegion$ContentColumns_holder$RealTimeStopInformation1$lbViewOnMap','')" id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeStopInformation1_lbViewOnMap" title="View on map">
+     <img alt="View on Map" src="/Templates/Public/Styles/Images/icon-rtpi-map.gif"/>
+    </a>
+   </td>
+   <td width="12%">
+    <span id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeStopInformation1_lblStopNumber">
+     262
+    </span>
+   </td>
+   <td>
+    <span id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeStopInformation1_lblStopAddress">
+     Parnell Square, Garden of Remembrance
+    </span>
+   </td>
+  </tr>
+ </table>
+</div>
+
+================== [raw] bus real time ==================
+<table cellspacing="0" id="rtpi-results">
+ <tr class="yellow">
+  <th width="10%">
+   Route
+  </th>
+  <th width="40%">
+   Destination
+  </th>
+  <th width="20%">
+   Expected Time
+  </th>
+  <th width="30%">
+   Notes
+  </th>
+ </tr>
+ <tr class="even">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   Due
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+ <tr class="odd">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   22:01
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+ <tr class="even">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   22:21
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+ <tr class="odd">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   22:41
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+</table>
+
+================== end of table ==================
+
+>>>>>>>>>>>>>Timestamp: 2014-10-16 10:03:02 <<<<<<<<<<<<<<<<<
+
+
+>>>>>>>>>>>>>Timestamp: 2014-10-16 10:03:07 <<<<<<<<<<<<<<<<<
+
+================== [raw] stop number and description ==================
+<div id="stop-detail">
+ <table>
+  <tr>
+   <th width="10%">
+    View Map
+   </th>
+   <th width="12%">
+    Stop Number
+   </th>
+   <th>
+    Stop Address
+   </th>
+  </tr>
+  <tr>
+   <td width="10%">
+    <a href="javascript:__doPostBack('ctl00$FullRegion$MainRegion$ContentColumns_holder$RealTimeStopInformation1$lbViewOnMap','')" id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeStopInformation1_lbViewOnMap" title="View on map">
+     <img alt="View on Map" src="/Templates/Public/Styles/Images/icon-rtpi-map.gif"/>
+    </a>
+   </td>
+   <td width="12%">
+    <span id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeStopInformation1_lblStopNumber">
+     262
+    </span>
+   </td>
+   <td>
+    <span id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeStopInformation1_lblStopAddress">
+     Parnell Square, Garden of Remembrance
+    </span>
+   </td>
+  </tr>
+ </table>
+</div>
+
+================== [raw] bus real time ==================
+<table cellspacing="0" id="rtpi-results">
+ <tr class="yellow">
+  <th width="10%">
+   Route
+  </th>
+  <th width="40%">
+   Destination
+  </th>
+  <th width="20%">
+   Expected Time
+  </th>
+  <th width="30%">
+   Notes
+  </th>
+ </tr>
+ <tr class="even">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   Due
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+ <tr class="odd">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   22:01
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+ <tr class="even">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   22:21
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+ <tr class="odd">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   22:41
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+</table>
+
+================== end of table ==================
+
+>>>>>>>>>>>>>Timestamp: 2014-10-16 10:03:07 <<<<<<<<<<<<<<<<<
+
+
+>>>>>>>>>>>>>Timestamp: 2014-10-16 10:03:12 <<<<<<<<<<<<<<<<<
+
+================== [raw] stop number and description ==================
+<div id="stop-detail">
+ <table>
+  <tr>
+   <th width="10%">
+    View Map
+   </th>
+   <th width="12%">
+    Stop Number
+   </th>
+   <th>
+    Stop Address
+   </th>
+  </tr>
+  <tr>
+   <td width="10%">
+    <a href="javascript:__doPostBack('ctl00$FullRegion$MainRegion$ContentColumns_holder$RealTimeStopInformation1$lbViewOnMap','')" id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeStopInformation1_lbViewOnMap" title="View on map">
+     <img alt="View on Map" src="/Templates/Public/Styles/Images/icon-rtpi-map.gif"/>
+    </a>
+   </td>
+   <td width="12%">
+    <span id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeStopInformation1_lblStopNumber">
+     262
+    </span>
+   </td>
+   <td>
+    <span id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeStopInformation1_lblStopAddress">
+     Parnell Square, Garden of Remembrance
+    </span>
+   </td>
+  </tr>
+ </table>
+</div>
+
+================== [raw] bus real time ==================
+<table cellspacing="0" id="rtpi-results">
+ <tr class="yellow">
+  <th width="10%">
+   Route
+  </th>
+  <th width="40%">
+   Destination
+  </th>
+  <th width="20%">
+   Expected Time
+  </th>
+  <th width="30%">
+   Notes
+  </th>
+ </tr>
+ <tr class="even">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   Due
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+ <tr class="odd">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   22:01
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+ <tr class="even">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   22:21
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+ <tr class="odd">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   22:41
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+</table>
+
+================== end of table ==================
+
+>>>>>>>>>>>>>Timestamp: 2014-10-16 10:03:12 <<<<<<<<<<<<<<<<<
+
+
+>>>>>>>>>>>>>Timestamp: 2014-10-16 10:03:17 <<<<<<<<<<<<<<<<<
+
+================== [raw] stop number and description ==================
+<div id="stop-detail">
+ <table>
+  <tr>
+   <th width="10%">
+    View Map
+   </th>
+   <th width="12%">
+    Stop Number
+   </th>
+   <th>
+    Stop Address
+   </th>
+  </tr>
+  <tr>
+   <td width="10%">
+    <a href="javascript:__doPostBack('ctl00$FullRegion$MainRegion$ContentColumns_holder$RealTimeStopInformation1$lbViewOnMap','')" id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeStopInformation1_lbViewOnMap" title="View on map">
+     <img alt="View on Map" src="/Templates/Public/Styles/Images/icon-rtpi-map.gif"/>
+    </a>
+   </td>
+   <td width="12%">
+    <span id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeStopInformation1_lblStopNumber">
+     262
+    </span>
+   </td>
+   <td>
+    <span id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeStopInformation1_lblStopAddress">
+     Parnell Square, Garden of Remembrance
+    </span>
+   </td>
+  </tr>
+ </table>
+</div>
+
+================== [raw] bus real time ==================
+<table cellspacing="0" id="rtpi-results">
+ <tr class="yellow">
+  <th width="10%">
+   Route
+  </th>
+  <th width="40%">
+   Destination
+  </th>
+  <th width="20%">
+   Expected Time
+  </th>
+  <th width="30%">
+   Notes
+  </th>
+ </tr>
+ <tr class="even">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   Due
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+ <tr class="odd">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   22:01
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+ <tr class="even">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   22:21
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+ <tr class="odd">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   22:41
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+</table>
+
+================== end of table ==================
+
+>>>>>>>>>>>>>Timestamp: 2014-10-16 10:03:17 <<<<<<<<<<<<<<<<<
+
+
+>>>>>>>>>>>>>Timestamp: 2014-10-16 10:03:22 <<<<<<<<<<<<<<<<<
+
+================== [raw] stop number and description ==================
+<div id="stop-detail">
+ <table>
+  <tr>
+   <th width="10%">
+    View Map
+   </th>
+   <th width="12%">
+    Stop Number
+   </th>
+   <th>
+    Stop Address
+   </th>
+  </tr>
+  <tr>
+   <td width="10%">
+    <a href="javascript:__doPostBack('ctl00$FullRegion$MainRegion$ContentColumns_holder$RealTimeStopInformation1$lbViewOnMap','')" id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeStopInformation1_lbViewOnMap" title="View on map">
+     <img alt="View on Map" src="/Templates/Public/Styles/Images/icon-rtpi-map.gif"/>
+    </a>
+   </td>
+   <td width="12%">
+    <span id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeStopInformation1_lblStopNumber">
+     262
+    </span>
+   </td>
+   <td>
+    <span id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeStopInformation1_lblStopAddress">
+     Parnell Square, Garden of Remembrance
+    </span>
+   </td>
+  </tr>
+ </table>
+</div>
+
+================== [raw] bus real time ==================
+<table cellspacing="0" id="rtpi-results">
+ <tr class="yellow">
+  <th width="10%">
+   Route
+  </th>
+  <th width="40%">
+   Destination
+  </th>
+  <th width="20%">
+   Expected Time
+  </th>
+  <th width="30%">
+   Notes
+  </th>
+ </tr>
+ <tr class="even">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   Due
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+ <tr class="odd">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   22:01
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+ <tr class="even">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   22:21
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+ <tr class="odd">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   22:41
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+</table>
+
+================== end of table ==================
+
+>>>>>>>>>>>>>Timestamp: 2014-10-16 10:03:22 <<<<<<<<<<<<<<<<<
+
+
+>>>>>>>>>>>>>Timestamp: 2014-10-16 10:03:42 <<<<<<<<<<<<<<<<<
+
+================== [raw] stop number and description ==================
+<div id="stop-detail">
+ <table>
+  <tr>
+   <th width="10%">
+    View Map
+   </th>
+   <th width="12%">
+    Stop Number
+   </th>
+   <th>
+    Stop Address
+   </th>
+  </tr>
+  <tr>
+   <td width="10%">
+    <a href="javascript:__doPostBack('ctl00$FullRegion$MainRegion$ContentColumns_holder$RealTimeStopInformation1$lbViewOnMap','')" id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeStopInformation1_lbViewOnMap" title="View on map">
+     <img alt="View on Map" src="/Templates/Public/Styles/Images/icon-rtpi-map.gif"/>
+    </a>
+   </td>
+   <td width="12%">
+    <span id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeStopInformation1_lblStopNumber">
+     262
+    </span>
+   </td>
+   <td>
+    <span id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeStopInformation1_lblStopAddress">
+     Parnell Square, Garden of Remembrance
+    </span>
+   </td>
+  </tr>
+ </table>
+</div>
+
+================== [raw] bus real time ==================
+<table cellspacing="0" id="rtpi-results">
+ <tr class="yellow">
+  <th width="10%">
+   Route
+  </th>
+  <th width="40%">
+   Destination
+  </th>
+  <th width="20%">
+   Expected Time
+  </th>
+  <th width="30%">
+   Notes
+  </th>
+ </tr>
+ <tr class="even">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   Due
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+ <tr class="odd">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   22:01
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+ <tr class="even">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   22:21
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+ <tr class="odd">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   22:41
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+</table>
+
+================== end of table ==================
+
+>>>>>>>>>>>>>Timestamp: 2014-10-16 10:03:42 <<<<<<<<<<<<<<<<<
+
+
+>>>>>>>>>>>>>Timestamp: 2014-10-16 10:03:43 <<<<<<<<<<<<<<<<<
+
+================== [raw] stop number and description ==================
+<div id="stop-detail">
+ <table>
+  <tr>
+   <th width="10%">
+    View Map
+   </th>
+   <th width="12%">
+    Stop Number
+   </th>
+   <th>
+    Stop Address
+   </th>
+  </tr>
+  <tr>
+   <td width="10%">
+    <a href="javascript:__doPostBack('ctl00$FullRegion$MainRegion$ContentColumns_holder$RealTimeStopInformation1$lbViewOnMap','')" id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeStopInformation1_lbViewOnMap" title="View on map">
+     <img alt="View on Map" src="/Templates/Public/Styles/Images/icon-rtpi-map.gif"/>
+    </a>
+   </td>
+   <td width="12%">
+    <span id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeStopInformation1_lblStopNumber">
+     262
+    </span>
+   </td>
+   <td>
+    <span id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeStopInformation1_lblStopAddress">
+     Parnell Square, Garden of Remembrance
+    </span>
+   </td>
+  </tr>
+ </table>
+</div>
+
+================== [raw] bus real time ==================
+<table cellspacing="0" id="rtpi-results">
+ <tr class="yellow">
+  <th width="10%">
+   Route
+  </th>
+  <th width="40%">
+   Destination
+  </th>
+  <th width="20%">
+   Expected Time
+  </th>
+  <th width="30%">
+   Notes
+  </th>
+ </tr>
+ <tr class="even">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   Due
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+ <tr class="odd">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   22:01
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+ <tr class="even">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   22:21
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+ <tr class="odd">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   22:41
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+</table>
+
+================== end of table ==================
+
+>>>>>>>>>>>>>Timestamp: 2014-10-16 10:03:43 <<<<<<<<<<<<<<<<<
+
+
+>>>>>>>>>>>>>Timestamp: 2014-10-16 10:03:45 <<<<<<<<<<<<<<<<<
+
+================== [raw] stop number and description ==================
+<div id="stop-detail">
+ <table>
+  <tr>
+   <th width="10%">
+    View Map
+   </th>
+   <th width="12%">
+    Stop Number
+   </th>
+   <th>
+    Stop Address
+   </th>
+  </tr>
+  <tr>
+   <td width="10%">
+    <a href="javascript:__doPostBack('ctl00$FullRegion$MainRegion$ContentColumns_holder$RealTimeStopInformation1$lbViewOnMap','')" id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeStopInformation1_lbViewOnMap" title="View on map">
+     <img alt="View on Map" src="/Templates/Public/Styles/Images/icon-rtpi-map.gif"/>
+    </a>
+   </td>
+   <td width="12%">
+    <span id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeStopInformation1_lblStopNumber">
+     262
+    </span>
+   </td>
+   <td>
+    <span id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeStopInformation1_lblStopAddress">
+     Parnell Square, Garden of Remembrance
+    </span>
+   </td>
+  </tr>
+ </table>
+</div>
+
+================== [raw] bus real time ==================
+<table cellspacing="0" id="rtpi-results">
+ <tr class="yellow">
+  <th width="10%">
+   Route
+  </th>
+  <th width="40%">
+   Destination
+  </th>
+  <th width="20%">
+   Expected Time
+  </th>
+  <th width="30%">
+   Notes
+  </th>
+ </tr>
+ <tr class="even">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   Due
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+ <tr class="odd">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   22:01
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+ <tr class="even">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   22:21
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+ <tr class="odd">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   22:41
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+</table>
+
+================== end of table ==================
+
+>>>>>>>>>>>>>Timestamp: 2014-10-16 10:03:45 <<<<<<<<<<<<<<<<<
+
+
+>>>>>>>>>>>>>Timestamp: 2014-10-16 10:03:46 <<<<<<<<<<<<<<<<<
+
+================== [raw] stop number and description ==================
+<div id="stop-detail">
+ <table>
+  <tr>
+   <th width="10%">
+    View Map
+   </th>
+   <th width="12%">
+    Stop Number
+   </th>
+   <th>
+    Stop Address
+   </th>
+  </tr>
+  <tr>
+   <td width="10%">
+    <a href="javascript:__doPostBack('ctl00$FullRegion$MainRegion$ContentColumns_holder$RealTimeStopInformation1$lbViewOnMap','')" id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeStopInformation1_lbViewOnMap" title="View on map">
+     <img alt="View on Map" src="/Templates/Public/Styles/Images/icon-rtpi-map.gif"/>
+    </a>
+   </td>
+   <td width="12%">
+    <span id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeStopInformation1_lblStopNumber">
+     262
+    </span>
+   </td>
+   <td>
+    <span id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeStopInformation1_lblStopAddress">
+     Parnell Square, Garden of Remembrance
+    </span>
+   </td>
+  </tr>
+ </table>
+</div>
+
+================== [raw] bus real time ==================
+<table cellspacing="0" id="rtpi-results">
+ <tr class="yellow">
+  <th width="10%">
+   Route
+  </th>
+  <th width="40%">
+   Destination
+  </th>
+  <th width="20%">
+   Expected Time
+  </th>
+  <th width="30%">
+   Notes
+  </th>
+ </tr>
+ <tr class="even">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   Due
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+ <tr class="odd">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   22:01
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+ <tr class="even">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   22:21
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+ <tr class="odd">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   22:41
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+</table>
+
+================== end of table ==================
+
+>>>>>>>>>>>>>Timestamp: 2014-10-16 10:03:46 <<<<<<<<<<<<<<<<<
+
+
+>>>>>>>>>>>>>Timestamp: 2014-10-16 10:03:47 <<<<<<<<<<<<<<<<<
+
+================== [raw] stop number and description ==================
+<div id="stop-detail">
+ <table>
+  <tr>
+   <th width="10%">
+    View Map
+   </th>
+   <th width="12%">
+    Stop Number
+   </th>
+   <th>
+    Stop Address
+   </th>
+  </tr>
+  <tr>
+   <td width="10%">
+    <a href="javascript:__doPostBack('ctl00$FullRegion$MainRegion$ContentColumns_holder$RealTimeStopInformation1$lbViewOnMap','')" id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeStopInformation1_lbViewOnMap" title="View on map">
+     <img alt="View on Map" src="/Templates/Public/Styles/Images/icon-rtpi-map.gif"/>
+    </a>
+   </td>
+   <td width="12%">
+    <span id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeStopInformation1_lblStopNumber">
+     262
+    </span>
+   </td>
+   <td>
+    <span id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeStopInformation1_lblStopAddress">
+     Parnell Square, Garden of Remembrance
+    </span>
+   </td>
+  </tr>
+ </table>
+</div>
+
+================== [raw] bus real time ==================
+<table cellspacing="0" id="rtpi-results">
+ <tr class="yellow">
+  <th width="10%">
+   Route
+  </th>
+  <th width="40%">
+   Destination
+  </th>
+  <th width="20%">
+   Expected Time
+  </th>
+  <th width="30%">
+   Notes
+  </th>
+ </tr>
+ <tr class="even">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   Due
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+ <tr class="odd">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   22:01
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+ <tr class="even">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   22:21
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+ <tr class="odd">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   22:41
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+</table>
+
+================== end of table ==================
+
+>>>>>>>>>>>>>Timestamp: 2014-10-16 10:03:47 <<<<<<<<<<<<<<<<<
+
+
+>>>>>>>>>>>>>Timestamp: 2014-10-16 10:03:48 <<<<<<<<<<<<<<<<<
+
+================== [raw] stop number and description ==================
+<div id="stop-detail">
+ <table>
+  <tr>
+   <th width="10%">
+    View Map
+   </th>
+   <th width="12%">
+    Stop Number
+   </th>
+   <th>
+    Stop Address
+   </th>
+  </tr>
+  <tr>
+   <td width="10%">
+    <a href="javascript:__doPostBack('ctl00$FullRegion$MainRegion$ContentColumns_holder$RealTimeStopInformation1$lbViewOnMap','')" id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeStopInformation1_lbViewOnMap" title="View on map">
+     <img alt="View on Map" src="/Templates/Public/Styles/Images/icon-rtpi-map.gif"/>
+    </a>
+   </td>
+   <td width="12%">
+    <span id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeStopInformation1_lblStopNumber">
+     262
+    </span>
+   </td>
+   <td>
+    <span id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeStopInformation1_lblStopAddress">
+     Parnell Square, Garden of Remembrance
+    </span>
+   </td>
+  </tr>
+ </table>
+</div>
+
+================== [raw] bus real time ==================
+<table cellspacing="0" id="rtpi-results">
+ <tr class="yellow">
+  <th width="10%">
+   Route
+  </th>
+  <th width="40%">
+   Destination
+  </th>
+  <th width="20%">
+   Expected Time
+  </th>
+  <th width="30%">
+   Notes
+  </th>
+ </tr>
+ <tr class="even">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   Due
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+ <tr class="odd">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   22:01
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+ <tr class="even">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   22:21
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+ <tr class="odd">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   22:41
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+</table>
+
+================== end of table ==================
+
+>>>>>>>>>>>>>Timestamp: 2014-10-16 10:03:48 <<<<<<<<<<<<<<<<<
+
+
+>>>>>>>>>>>>>Timestamp: 2014-10-16 10:03:49 <<<<<<<<<<<<<<<<<
+
+================== [raw] stop number and description ==================
+<div id="stop-detail">
+ <table>
+  <tr>
+   <th width="10%">
+    View Map
+   </th>
+   <th width="12%">
+    Stop Number
+   </th>
+   <th>
+    Stop Address
+   </th>
+  </tr>
+  <tr>
+   <td width="10%">
+    <a href="javascript:__doPostBack('ctl00$FullRegion$MainRegion$ContentColumns_holder$RealTimeStopInformation1$lbViewOnMap','')" id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeStopInformation1_lbViewOnMap" title="View on map">
+     <img alt="View on Map" src="/Templates/Public/Styles/Images/icon-rtpi-map.gif"/>
+    </a>
+   </td>
+   <td width="12%">
+    <span id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeStopInformation1_lblStopNumber">
+     262
+    </span>
+   </td>
+   <td>
+    <span id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeStopInformation1_lblStopAddress">
+     Parnell Square, Garden of Remembrance
+    </span>
+   </td>
+  </tr>
+ </table>
+</div>
+
+================== [raw] bus real time ==================
+<table cellspacing="0" id="rtpi-results">
+ <tr class="yellow">
+  <th width="10%">
+   Route
+  </th>
+  <th width="40%">
+   Destination
+  </th>
+  <th width="20%">
+   Expected Time
+  </th>
+  <th width="30%">
+   Notes
+  </th>
+ </tr>
+ <tr class="even">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   Due
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+ <tr class="odd">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   22:01
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+ <tr class="even">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   22:21
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+ <tr class="odd">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   22:41
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+</table>
+
+================== end of table ==================
+
+>>>>>>>>>>>>>Timestamp: 2014-10-16 10:03:49 <<<<<<<<<<<<<<<<<
+
+
+>>>>>>>>>>>>>Timestamp: 2014-10-16 10:03:50 <<<<<<<<<<<<<<<<<
+
+================== [raw] stop number and description ==================
+<div id="stop-detail">
+ <table>
+  <tr>
+   <th width="10%">
+    View Map
+   </th>
+   <th width="12%">
+    Stop Number
+   </th>
+   <th>
+    Stop Address
+   </th>
+  </tr>
+  <tr>
+   <td width="10%">
+    <a href="javascript:__doPostBack('ctl00$FullRegion$MainRegion$ContentColumns_holder$RealTimeStopInformation1$lbViewOnMap','')" id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeStopInformation1_lbViewOnMap" title="View on map">
+     <img alt="View on Map" src="/Templates/Public/Styles/Images/icon-rtpi-map.gif"/>
+    </a>
+   </td>
+   <td width="12%">
+    <span id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeStopInformation1_lblStopNumber">
+     262
+    </span>
+   </td>
+   <td>
+    <span id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeStopInformation1_lblStopAddress">
+     Parnell Square, Garden of Remembrance
+    </span>
+   </td>
+  </tr>
+ </table>
+</div>
+
+================== [raw] bus real time ==================
+<table cellspacing="0" id="rtpi-results">
+ <tr class="yellow">
+  <th width="10%">
+   Route
+  </th>
+  <th width="40%">
+   Destination
+  </th>
+  <th width="20%">
+   Expected Time
+  </th>
+  <th width="30%">
+   Notes
+  </th>
+ </tr>
+ <tr class="even">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   Due
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+ <tr class="odd">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   22:01
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+ <tr class="even">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   22:21
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+ <tr class="odd">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   22:41
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+</table>
+
+================== end of table ==================
+
+>>>>>>>>>>>>>Timestamp: 2014-10-16 10:03:50 <<<<<<<<<<<<<<<<<
+
+
+>>>>>>>>>>>>>Timestamp: 2014-10-16 10:03:51 <<<<<<<<<<<<<<<<<
+
+================== [raw] stop number and description ==================
+<div id="stop-detail">
+ <table>
+  <tr>
+   <th width="10%">
+    View Map
+   </th>
+   <th width="12%">
+    Stop Number
+   </th>
+   <th>
+    Stop Address
+   </th>
+  </tr>
+  <tr>
+   <td width="10%">
+    <a href="javascript:__doPostBack('ctl00$FullRegion$MainRegion$ContentColumns_holder$RealTimeStopInformation1$lbViewOnMap','')" id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeStopInformation1_lbViewOnMap" title="View on map">
+     <img alt="View on Map" src="/Templates/Public/Styles/Images/icon-rtpi-map.gif"/>
+    </a>
+   </td>
+   <td width="12%">
+    <span id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeStopInformation1_lblStopNumber">
+     262
+    </span>
+   </td>
+   <td>
+    <span id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeStopInformation1_lblStopAddress">
+     Parnell Square, Garden of Remembrance
+    </span>
+   </td>
+  </tr>
+ </table>
+</div>
+
+================== [raw] bus real time ==================
+<table cellspacing="0" id="rtpi-results">
+ <tr class="yellow">
+  <th width="10%">
+   Route
+  </th>
+  <th width="40%">
+   Destination
+  </th>
+  <th width="20%">
+   Expected Time
+  </th>
+  <th width="30%">
+   Notes
+  </th>
+ </tr>
+ <tr class="even">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   Due
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+ <tr class="odd">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   22:01
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+ <tr class="even">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   22:21
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+ <tr class="odd">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   22:41
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+</table>
+
+================== end of table ==================
+
+>>>>>>>>>>>>>Timestamp: 2014-10-16 10:03:51 <<<<<<<<<<<<<<<<<
+
+
+>>>>>>>>>>>>>Timestamp: 2014-10-16 10:03:52 <<<<<<<<<<<<<<<<<
+
+================== [raw] stop number and description ==================
+<div id="stop-detail">
+ <table>
+  <tr>
+   <th width="10%">
+    View Map
+   </th>
+   <th width="12%">
+    Stop Number
+   </th>
+   <th>
+    Stop Address
+   </th>
+  </tr>
+  <tr>
+   <td width="10%">
+    <a href="javascript:__doPostBack('ctl00$FullRegion$MainRegion$ContentColumns_holder$RealTimeStopInformation1$lbViewOnMap','')" id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeStopInformation1_lbViewOnMap" title="View on map">
+     <img alt="View on Map" src="/Templates/Public/Styles/Images/icon-rtpi-map.gif"/>
+    </a>
+   </td>
+   <td width="12%">
+    <span id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeStopInformation1_lblStopNumber">
+     262
+    </span>
+   </td>
+   <td>
+    <span id="ctl00_FullRegion_MainRegion_ContentColumns_holder_RealTimeStopInformation1_lblStopAddress">
+     Parnell Square, Garden of Remembrance
+    </span>
+   </td>
+  </tr>
+ </table>
+</div>
+
+================== [raw] bus real time ==================
+<table cellspacing="0" id="rtpi-results">
+ <tr class="yellow">
+  <th width="10%">
+   Route
+  </th>
+  <th width="40%">
+   Destination
+  </th>
+  <th width="20%">
+   Expected Time
+  </th>
+  <th width="30%">
+   Notes
+  </th>
+ </tr>
+ <tr class="even">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   Due
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+ <tr class="odd">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   22:01
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+ <tr class="even">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   22:21
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+ <tr class="odd">
+  <td>
+   16
+  </td>
+  <td>
+   Ballinteer via O'Connell Street
+  </td>
+  <td>
+   22:41
+  </td>
+  <td>
+   <img alt="Accessible" class="" src="/Templates/Public/Styles/Images/icon-small-accessible.gif"/>
+   <img alt="R Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-R-pred.gif"/>
+   <img alt="E Prediction" class="display_none" src="/Templates/Public/Styles/Images/icon-small-E-pred.gif"/>
+  </td>
+ </tr>
+</table>
+
+================== end of table ==================
+
+>>>>>>>>>>>>>Timestamp: 2014-10-16 10:03:52 <<<<<<<<<<<<<<<<<

@@ -39,6 +39,7 @@ def crawl(url, opt):
     print "================== [raw] bus real time =================="
     print table
     print "================== end of table =================="
+    print st
     ## END - GET RAW TABLES ##
 
     ## OUTPUT SOURCE CODE ##
@@ -61,8 +62,46 @@ def crawl(url, opt):
 
 
 ## Let's make our webcrawler busy ##
-# to do:
-# add wait method (wait for 60 seconds)
-# while loop
-#
-crawl('http://www.dublinbus.ie/en/RTPI/Sources-of-Real-Time-Information/?searchtype=view&searchquery=262', 2)
+while True:
+    # Get time between request
+    num = raw_input('How long to wait: ')
+    # Easy way to stop this process
+    if num in ('quit','q','Quit','Q'):
+        print('QUIT')
+        exit()
+    # Try to convert it to a float
+    try:
+        num = float(num)
+    except ValueError:
+        print('Please enter in a number.\n')
+        continue
+    
+    # Get times to repeat request 
+    count = raw_input('How many time to repeat: ')
+    # Try to convert it to a float
+    try:
+        count = float(count)
+    except ValueError:
+        print('Please enter in a number.\n')
+        continue
+    count = int(count)
+    for i in range(0, count):      
+        # Run our time.sleep() command,
+        # and show the before and after time
+        print('REPEATING No. ' + str(count))
+        print('Before: %s' % time.ctime())
+        crawl('http://www.dublinbus.ie/en/RTPI/Sources-of-Real-Time-Information/?searchtype=view&searchquery=262', 2)
+        time.sleep(num)
+        print('After: %s\n' % time.ctime())
+        print('END REPEATING No. ' + str(count))
+
+
+
+# TO DO:
+# add wait method (wait for 60 seconds) √
+# while loop √
+# regex
+
+
+
+

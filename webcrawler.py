@@ -100,7 +100,9 @@ while True:
 # TO DO:
 # add wait method (wait for 60 seconds) √
 # while loop √
-# regex
+# regex to extract and format info
+# data structure
+# a better interface
 
 
 

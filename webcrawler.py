@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+# -*- coding: utf-8 -*-
 
 import urllib2
 import time
@@ -13,7 +14,7 @@ def crawl(url, opt):
     # GET DATA SOURCE
     # Option 1: get data from Dublinbus website
     if opt == 1:
-        header = {'User-Agent': 'Mozilla/5.0'} #Needed to prevent 403 error on Wikipedia
+        header = {'User-Agent': 'Mozilla/5.0'} # Needed to prevent 403 error on Wikipedia
         req = urllib2.Request(url,headers=header)
         response = urllib2.urlopen(req)
         # Let's make soup!!
@@ -38,13 +39,14 @@ def crawl(url, opt):
     print div
     print "================== [raw] bus real time =================="
     print table
-    print "================== end of table =================="
+    print "================== What's the time now? =================="
     print st
+    print "================== end data =================="
     ## END - GET RAW TABLES ##
 
     ## OUTPUT SOURCE CODE ##
     # output source code to a temp file
-    file = open("temp.txt", "a")
+    file = open("temp262.txt", "a")
     print "Name of the file: ", file.name
     
     file.write("\n\n>>>>>>>>>>>>>Timestamp: " + st + " <<<<<<<<<<<<<<<<<\n")
@@ -54,17 +56,16 @@ def crawl(url, opt):
     file.write("\n================== [raw] bus real time ==================\n")
     for line in table.prettify("latin-1"):      
         file.write(line)
-    file.write("\n================== end of table ==================\n")
     file.write("\n>>>>>>>>>>>>>Timestamp: " + st + " <<<<<<<<<<<<<<<<<\n")
+    file.write("\n================== end data ==================\n")
     
     file.close()
     ## END - OUTPUT SOURCE CODE ##
 
-
 ## Let's make our webcrawler busy ##
 while True:
     # Get time between request
-    num = raw_input('How long to wait: ')
+    num = raw_input('How long to wait or quit: ')
     # Easy way to stop this process
     if num in ('quit','q','Quit','Q'):
         print('QUIT')
@@ -85,17 +86,15 @@ while True:
         print('Please enter in a number.\n')
         continue
     count = int(count)
-    for i in range(0, count):      
+    for i in range(1, count+1):      
         # Run our time.sleep() command,
         # and show the before and after time
-        print('REPEATING No. ' + str(count))
+        print('\nREPEATING No. ' + str(i))
         print('Before: %s' % time.ctime())
-        crawl('http://www.dublinbus.ie/en/RTPI/Sources-of-Real-Time-Information/?searchtype=view&searchquery=262', 2)
+        crawl('http://www.dublinbus.ie/en/RTPI/Sources-of-Real-Time-Information/?searchtype=view&searchquery=262', 1)
         time.sleep(num)
         print('After: %s\n' % time.ctime())
-        print('END REPEATING No. ' + str(count))
-
-
+        print('END REPEATING No. ' + str(i) + '\n')
 
 # TO DO:
 # add wait method (wait for 60 seconds) √
@@ -103,6 +102,7 @@ while True:
 # regex to extract and format info
 # data structure
 # a better interface
+
 
 
 

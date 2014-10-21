@@ -30,37 +30,28 @@ def crawl(url, opt):
         sample_file.close()
     ## END - GET DATA SOURCE ##
 
-    ## GET RAW TABLES ##
+    ## GET TABLES ##
     div = soup.find("div", {"id" : "stop-detail"})
     table = soup.find("table", { "id" : "rtpi-results" })
-    print "================== What's the time now? =================="
-    print st
-    print "================== [raw] stop number and description =================="
-    print div
-    print "================== [raw] bus real time =================="
-    print table
-    print "================== What's the time now? =================="
-    print st
-    print "================== end data =================="
-    ## END - GET RAW TABLES ##
 
-    ## OUTPUT SOURCE CODE ##
-    # output source code to a temp file
     file = open("temp262.txt", "a")
     print "Name of the file: ", file.name
-    
-    file.write("\n\n>>>>>>>>>>>>>Timestamp: " + st + " <<<<<<<<<<<<<<<<<\n")
-    file.write("\n================== [raw] stop number and description ==================\n")
-    for line in div.prettify("latin-1"):      
-        file.write(line)
-    file.write("\n================== [raw] bus real time ==================\n")
-    for line in table.prettify("latin-1"):      
-        file.write(line)
-    file.write("\n>>>>>>>>>>>>>Timestamp: " + st + " <<<<<<<<<<<<<<<<<\n")
-    file.write("\n================== end data ==================\n")
-    
-    file.close()
-    ## END - OUTPUT SOURCE CODE ##
+
+    ## OUTPUT TO SCREEN
+    print "\n================== Timestamp ==================\n"
+    print st
+    file.write("\nTimestamp: " + st)
+    print "\n================== stop number and description ==================\n"
+    file.write("\n==== stop number and description ====\n")
+    for node in div.findAll('td'):
+        print ''.join(node.findAll(text=True))
+        file.write(''.join(node.findAll(text=True)))
+    print "\n================== bus real time ==================\n"
+    file.write("\n==== bus real time ====\n")
+    for node in table.findAll('td'):
+        print ''.join(node.findAll(text=True))
+        file.write(''.join(node.findAll(text=True)))
+    ## END - OUTPUT 
 
 ## Let's make our webcrawler busy ##
 while True:
@@ -102,8 +93,6 @@ while True:
 # regex to extract and format info
 # data structure
 # a better interface
-
-
 
 
 

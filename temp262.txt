@@ -6098,3 +6098,1584 @@ Parnell Square, Garden of Remembrance
 
 
 
+
+Timestamp: 2014-10-21 10:46:34
+==== stop number and description ====
+
+Timestamp: 2014-10-21 10:47:55
+==== stop number and description ====
+
+Timestamp: 2014-10-21 10:48:36
+==== stop number and description ====
+
+
+
+262
+
+Parnell Square, Garden of Remembrance
+
+==== bus real time ====
+
+                                    16
+                                
+                                    Ballinteer via O'Connell Street
+                                
+                                    Due
+                                
+
+
+
+
+                                    16
+                                
+                                    Ballinteer via O'Connell Street
+                                
+                                    10:59
+                                
+
+
+
+
+                                    16
+                                
+                                    Ballinteer via O'Connell Street
+                                
+                                    11:05
+                                
+
+
+
+
+                                    16
+                                
+                                    Ballinteer via O'Connell Street
+                                
+                                    11:21
+                                
+
+
+
+
+                                    16
+                                
+                                    Ballinteer via O'Connell Street
+                                
+                                    11:31
+                                
+
+
+
+
+                                    16
+                                
+                                    Ballinteer via O'Connell Street
+                                
+                                    11:43
+                                
+
+
+
+
+Timestamp: 2014-10-21 10:48:37
+==== stop number and description ====
+
+
+
+262
+
+Parnell Square, Garden of Remembrance
+
+==== bus real time ====
+
+                                    16
+                                
+                                    Ballinteer via O'Connell Street
+                                
+                                    Due
+                                
+
+
+
+
+                                    16
+                                
+                                    Ballinteer via O'Connell Street
+                                
+                                    10:59
+                                
+
+
+
+
+                                    16
+                                
+                                    Ballinteer via O'Connell Street
+                                
+                                    11:05
+                                
+
+
+
+
+                                    16
+                                
+                                    Ballinteer via O'Connell Street
+                                
+                                    11:21
+                                
+
+
+
+
+                                    16
+                                
+                                    Ballinteer via O'Connell Street
+                                
+                                    11:31
+                                
+
+
+
+
+                                    16
+                                
+                                    Ballinteer via O'Connell Street
+                                
+                                    11:43
+                                
+
+
+
+
+Timestamp: 2014-10-21 10:49:20
+==== stop number and description ====
+
+
+
+262
+
+Parnell Square, Garden of Remembrance
+
+==== bus real time ====
+
+                                    16
+                                
+                                    Ballinteer via O'Connell Street
+                                
+                                    Due
+                                
+
+
+
+
+                                    16
+                                
+                                    Ballinteer via O'Connell Street
+                                
+                                    10:59
+                                
+
+
+
+
+                                    16
+                                
+                                    Ballinteer via O'Connell Street
+                                
+                                    11:05
+                                
+
+
+
+
+                                    16
+                                
+                                    Ballinteer via O'Connell Street
+                                
+                                    11:21
+                                
+
+
+
+
+                                    16
+                                
+                                    Ballinteer via O'Connell Street
+                                
+                                    11:32
+                                
+
+
+
+
+                                    16
+                                
+                                    Ballinteer via O'Connell Street
+                                
+                                    11:43
+                                
+
+
+
+
+Timestamp: 2014-10-21 10:49:20
+==== stop number and description ====
+
+
+
+262
+
+Parnell Square, Garden of Remembrance
+
+==== bus real time ====
+
+                                    16
+                                
+                                    Ballinteer via O'Connell Street
+                                
+                                    Due
+                                
+
+
+
+
+                                    16
+                                
+                                    Ballinteer via O'Connell Street
+                                
+                                    10:59
+                                
+
+
+
+
+                                    16
+                                
+                                    Ballinteer via O'Connell Street
+                                
+                                    11:05
+                                
+
+
+
+
+                                    16
+                                
+                                    Ballinteer via O'Connell Street
+                                
+                                    11:21
+                                
+
+
+
+
+                                    16
+                                
+                                    Ballinteer via O'Connell Street
+                                
+                                    11:32
+                                
+
+
+
+
+                                    16
+                                
+                                    Ballinteer via O'Connell Street
+                                
+                                    11:43
+                                
+
+
+
+
+Timestamp: 2014-10-21 10:49:21
+==== stop number and description ====
+
+
+
+262
+
+Parnell Square, Garden of Remembrance
+
+==== bus real time ====
+
+                                    16
+                                
+                                    Ballinteer via O'Connell Street
+                                
+                                    Due
+                                
+
+
+
+
+                                    16
+                                
+                                    Ballinteer via O'Connell Street
+                                
+                                    10:59
+                                
+
+
+
+
+                                    16
+                                
+                                    Ballinteer via O'Connell Street
+                                
+                                    11:05
+                                
+
+
+
+
+                                    16
+                                
+                                    Ballinteer via O'Connell Street
+                                
+                                    11:21
+                                
+
+
+
+
+                                    16
+                                
+                                    Ballinteer via O'Connell Street
+                                
+                                    11:32
+                                
+
+
+
+
+                                    16
+                                
+                                    Ballinteer via O'Connell Street
+                                
+                                    11:43
+                                
+
+
+
+
+Timestamp: 2014-10-21 10:49:40
+==== stop number and description ====
+
+
+
+2976
+
+Brehon Field Rd, Grange Hall
+
+==== bus real time ====
+
+                                    16
+                                
+                                    Dublin Airport via O'Connell Street
+                                
+                                    11:01
+                                
+
+
+
+
+                                    16
+                                
+                                    Dublin Airport via O'Connell Street
+                                
+                                    11:13
+                                
+
+
+
+
+                                    16
+                                
+                                    Dublin Airport via O'Connell Street
+                                
+                                    11:25
+                                
+
+
+
+
+                                    16
+                                
+                                    Dublin Airport via O'Connell Street
+                                
+                                    11:37
+                                
+
+
+
+
+                                    16
+                                
+                                    Dublin Airport via O'Connell Street
+                                
+                                    11:49
+                                
+
+
+
+
+Timestamp: 2014-10-21 10:49:41
+==== stop number and description ====
+
+
+
+2976
+
+Brehon Field Rd, Grange Hall
+
+==== bus real time ====
+
+                                    16
+                                
+                                    Dublin Airport via O'Connell Street
+                                
+                                    11:01
+                                
+
+
+
+
+                                    16
+                                
+                                    Dublin Airport via O'Connell Street
+                                
+                                    11:13
+                                
+
+
+
+
+                                    16
+                                
+                                    Dublin Airport via O'Connell Street
+                                
+                                    11:25
+                                
+
+
+
+
+                                    16
+                                
+                                    Dublin Airport via O'Connell Street
+                                
+                                    11:37
+                                
+
+
+
+
+                                    16
+                                
+                                    Dublin Airport via O'Connell Street
+                                
+                                    11:49
+                                
+
+
+
+
+Timestamp: 2014-10-21 10:49:41
+==== stop number and description ====
+
+
+
+2976
+
+Brehon Field Rd, Grange Hall
+
+==== bus real time ====
+
+                                    16
+                                
+                                    Dublin Airport via O'Connell Street
+                                
+                                    11:01
+                                
+
+
+
+
+                                    16
+                                
+                                    Dublin Airport via O'Connell Street
+                                
+                                    11:13
+                                
+
+
+
+
+                                    16
+                                
+                                    Dublin Airport via O'Connell Street
+                                
+                                    11:25
+                                
+
+
+
+
+                                    16
+                                
+                                    Dublin Airport via O'Connell Street
+                                
+                                    11:37
+                                
+
+
+
+
+                                    16
+                                
+                                    Dublin Airport via O'Connell Street
+                                
+                                    11:49
+                                
+
+
+
+
+Timestamp: 2014-10-21 10:49:42
+==== stop number and description ====
+
+
+
+2976
+
+Brehon Field Rd, Grange Hall
+
+==== bus real time ====
+
+                                    16
+                                
+                                    Dublin Airport via O'Connell Street
+                                
+                                    11:01
+                                
+
+
+
+
+                                    16
+                                
+                                    Dublin Airport via O'Connell Street
+                                
+                                    11:13
+                                
+
+
+
+
+                                    16
+                                
+                                    Dublin Airport via O'Connell Street
+                                
+                                    11:25
+                                
+
+
+
+
+                                    16
+                                
+                                    Dublin Airport via O'Connell Street
+                                
+                                    11:37
+                                
+
+
+
+
+                                    16
+                                
+                                    Dublin Airport via O'Connell Street
+                                
+                                    11:49
+                                
+
+
+
+
+Timestamp: 2014-10-21 10:49:42
+==== stop number and description ====
+
+
+
+2976
+
+Brehon Field Rd, Grange Hall
+
+==== bus real time ====
+
+                                    16
+                                
+                                    Dublin Airport via O'Connell Street
+                                
+                                    11:01
+                                
+
+
+
+
+                                    16
+                                
+                                    Dublin Airport via O'Connell Street
+                                
+                                    11:13
+                                
+
+
+
+
+                                    16
+                                
+                                    Dublin Airport via O'Connell Street
+                                
+                                    11:25
+                                
+
+
+
+
+                                    16
+                                
+                                    Dublin Airport via O'Connell Street
+                                
+                                    11:37
+                                
+
+
+
+
+                                    16
+                                
+                                    Dublin Airport via O'Connell Street
+                                
+                                    11:49
+                                
+
+
+
+
+Timestamp: 2014-10-21 10:49:43
+==== stop number and description ====
+
+
+
+2976
+
+Brehon Field Rd, Grange Hall
+
+==== bus real time ====
+
+                                    16
+                                
+                                    Dublin Airport via O'Connell Street
+                                
+                                    11:01
+                                
+
+
+
+
+                                    16
+                                
+                                    Dublin Airport via O'Connell Street
+                                
+                                    11:13
+                                
+
+
+
+
+                                    16
+                                
+                                    Dublin Airport via O'Connell Street
+                                
+                                    11:25
+                                
+
+
+
+
+                                    16
+                                
+                                    Dublin Airport via O'Connell Street
+                                
+                                    11:37
+                                
+
+
+
+
+                                    16
+                                
+                                    Dublin Airport via O'Connell Street
+                                
+                                    11:49
+                                
+
+
+
+
+Timestamp: 2014-10-21 10:49:43
+==== stop number and description ====
+
+
+
+2976
+
+Brehon Field Rd, Grange Hall
+
+==== bus real time ====
+
+                                    16
+                                
+                                    Dublin Airport via O'Connell Street
+                                
+                                    11:01
+                                
+
+
+
+
+                                    16
+                                
+                                    Dublin Airport via O'Connell Street
+                                
+                                    11:13
+                                
+
+
+
+
+                                    16
+                                
+                                    Dublin Airport via O'Connell Street
+                                
+                                    11:25
+                                
+
+
+
+
+                                    16
+                                
+                                    Dublin Airport via O'Connell Street
+                                
+                                    11:37
+                                
+
+
+
+
+                                    16
+                                
+                                    Dublin Airport via O'Connell Street
+                                
+                                    11:49
+                                
+
+
+
+
+Timestamp: 2014-10-21 10:49:43
+==== stop number and description ====
+
+
+
+2976
+
+Brehon Field Rd, Grange Hall
+
+==== bus real time ====
+
+                                    16
+                                
+                                    Dublin Airport via O'Connell Street
+                                
+                                    11:01
+                                
+
+
+
+
+                                    16
+                                
+                                    Dublin Airport via O'Connell Street
+                                
+                                    11:13
+                                
+
+
+
+
+                                    16
+                                
+                                    Dublin Airport via O'Connell Street
+                                
+                                    11:25
+                                
+
+
+
+
+                                    16
+                                
+                                    Dublin Airport via O'Connell Street
+                                
+                                    11:37
+                                
+
+
+
+
+                                    16
+                                
+                                    Dublin Airport via O'Connell Street
+                                
+                                    11:49
+                                
+
+
+
+
+Timestamp: 2014-10-21 10:49:44
+==== stop number and description ====
+
+
+
+2976
+
+Brehon Field Rd, Grange Hall
+
+==== bus real time ====
+
+                                    16
+                                
+                                    Dublin Airport via O'Connell Street
+                                
+                                    11:01
+                                
+
+
+
+
+                                    16
+                                
+                                    Dublin Airport via O'Connell Street
+                                
+                                    11:13
+                                
+
+
+
+
+                                    16
+                                
+                                    Dublin Airport via O'Connell Street
+                                
+                                    11:25
+                                
+
+
+
+
+                                    16
+                                
+                                    Dublin Airport via O'Connell Street
+                                
+                                    11:37
+                                
+
+
+
+
+                                    16
+                                
+                                    Dublin Airport via O'Connell Street
+                                
+                                    11:49
+                                
+
+
+
+
+Timestamp: 2014-10-21 10:49:44
+==== stop number and description ====
+
+
+
+2976
+
+Brehon Field Rd, Grange Hall
+
+==== bus real time ====
+
+                                    16
+                                
+                                    Dublin Airport via O'Connell Street
+                                
+                                    11:01
+                                
+
+
+
+
+                                    16
+                                
+                                    Dublin Airport via O'Connell Street
+                                
+                                    11:13
+                                
+
+
+
+
+                                    16
+                                
+                                    Dublin Airport via O'Connell Street
+                                
+                                    11:25
+                                
+
+
+
+
+                                    16
+                                
+                                    Dublin Airport via O'Connell Street
+                                
+                                    11:37
+                                
+
+
+
+
+                                    16
+                                
+                                    Dublin Airport via O'Connell Street
+                                
+                                    11:49
+                                
+
+
+
+
+Timestamp: 2014-10-21 10:49:45
+==== stop number and description ====
+
+
+
+2976
+
+Brehon Field Rd, Grange Hall
+
+==== bus real time ====
+
+                                    16
+                                
+                                    Dublin Airport via O'Connell Street
+                                
+                                    11:01
+                                
+
+
+
+
+                                    16
+                                
+                                    Dublin Airport via O'Connell Street
+                                
+                                    11:13
+                                
+
+
+
+
+                                    16
+                                
+                                    Dublin Airport via O'Connell Street
+                                
+                                    11:25
+                                
+
+
+
+
+                                    16
+                                
+                                    Dublin Airport via O'Connell Street
+                                
+                                    11:37
+                                
+
+
+
+
+                                    16
+                                
+                                    Dublin Airport via O'Connell Street
+                                
+                                    11:49
+                                
+
+
+
+
+Timestamp: 2014-10-21 10:49:45
+==== stop number and description ====
+
+
+
+2976
+
+Brehon Field Rd, Grange Hall
+
+==== bus real time ====
+
+                                    16
+                                
+                                    Dublin Airport via O'Connell Street
+                                
+                                    11:01
+                                
+
+
+
+
+                                    16
+                                
+                                    Dublin Airport via O'Connell Street
+                                
+                                    11:13
+                                
+
+
+
+
+                                    16
+                                
+                                    Dublin Airport via O'Connell Street
+                                
+                                    11:25
+                                
+
+
+
+
+                                    16
+                                
+                                    Dublin Airport via O'Connell Street
+                                
+                                    11:37
+                                
+
+
+
+
+                                    16
+                                
+                                    Dublin Airport via O'Connell Street
+                                
+                                    11:49
+                                
+
+
+
+
+Timestamp: 2014-10-21 10:49:46
+==== stop number and description ====
+
+
+
+2976
+
+Brehon Field Rd, Grange Hall
+
+==== bus real time ====
+
+                                    16
+                                
+                                    Dublin Airport via O'Connell Street
+                                
+                                    11:01
+                                
+
+
+
+
+                                    16
+                                
+                                    Dublin Airport via O'Connell Street
+                                
+                                    11:13
+                                
+
+
+
+
+                                    16
+                                
+                                    Dublin Airport via O'Connell Street
+                                
+                                    11:25
+                                
+
+
+
+
+                                    16
+                                
+                                    Dublin Airport via O'Connell Street
+                                
+                                    11:37
+                                
+
+
+
+
+                                    16
+                                
+                                    Dublin Airport via O'Connell Street
+                                
+                                    11:49
+                                
+
+
+
+
+Timestamp: 2014-10-21 10:49:46
+==== stop number and description ====
+
+
+
+2976
+
+Brehon Field Rd, Grange Hall
+
+==== bus real time ====
+
+                                    16
+                                
+                                    Dublin Airport via O'Connell Street
+                                
+                                    11:01
+                                
+
+
+
+
+                                    16
+                                
+                                    Dublin Airport via O'Connell Street
+                                
+                                    11:13
+                                
+
+
+
+
+                                    16
+                                
+                                    Dublin Airport via O'Connell Street
+                                
+                                    11:25
+                                
+
+
+
+
+                                    16
+                                
+                                    Dublin Airport via O'Connell Street
+                                
+                                    11:37
+                                
+
+
+
+
+                                    16
+                                
+                                    Dublin Airport via O'Connell Street
+                                
+                                    11:49
+                                
+
+
+
+
+Timestamp: 2014-10-21 10:49:47
+==== stop number and description ====
+
+
+
+2976
+
+Brehon Field Rd, Grange Hall
+
+==== bus real time ====
+
+                                    16
+                                
+                                    Dublin Airport via O'Connell Street
+                                
+                                    11:01
+                                
+
+
+
+
+                                    16
+                                
+                                    Dublin Airport via O'Connell Street
+                                
+                                    11:13
+                                
+
+
+
+
+                                    16
+                                
+                                    Dublin Airport via O'Connell Street
+                                
+                                    11:25
+                                
+
+
+
+
+                                    16
+                                
+                                    Dublin Airport via O'Connell Street
+                                
+                                    11:37
+                                
+
+
+
+
+                                    16
+                                
+                                    Dublin Airport via O'Connell Street
+                                
+                                    11:49
+                                
+
+
+
+
+Timestamp: 2014-10-21 10:49:47
+==== stop number and description ====
+
+
+
+2976
+
+Brehon Field Rd, Grange Hall
+
+==== bus real time ====
+
+                                    16
+                                
+                                    Dublin Airport via O'Connell Street
+                                
+                                    11:01
+                                
+
+
+
+
+                                    16
+                                
+                                    Dublin Airport via O'Connell Street
+                                
+                                    11:13
+                                
+
+
+
+
+                                    16
+                                
+                                    Dublin Airport via O'Connell Street
+                                
+                                    11:25
+                                
+
+
+
+
+                                    16
+                                
+                                    Dublin Airport via O'Connell Street
+                                
+                                    11:37
+                                
+
+
+
+
+                                    16
+                                
+                                    Dublin Airport via O'Connell Street
+                                
+                                    11:49
+                                
+
+
+
+
+Timestamp: 2014-10-21 10:49:48
+==== stop number and description ====
+
+
+
+2976
+
+Brehon Field Rd, Grange Hall
+
+==== bus real time ====
+
+                                    16
+                                
+                                    Dublin Airport via O'Connell Street
+                                
+                                    11:01
+                                
+
+
+
+
+                                    16
+                                
+                                    Dublin Airport via O'Connell Street
+                                
+                                    11:13
+                                
+
+
+
+
+                                    16
+                                
+                                    Dublin Airport via O'Connell Street
+                                
+                                    11:25
+                                
+
+
+
+
+                                    16
+                                
+                                    Dublin Airport via O'Connell Street
+                                
+                                    11:37
+                                
+
+
+
+
+                                    16
+                                
+                                    Dublin Airport via O'Connell Street
+                                
+                                    11:49
+                                
+
+
+
+
+Timestamp: 2014-10-21 10:49:48
+==== stop number and description ====
+
+
+
+2976
+
+Brehon Field Rd, Grange Hall
+
+==== bus real time ====
+
+                                    16
+                                
+                                    Dublin Airport via O'Connell Street
+                                
+                                    11:01
+                                
+
+
+
+
+                                    16
+                                
+                                    Dublin Airport via O'Connell Street
+                                
+                                    11:13
+                                
+
+
+
+
+                                    16
+                                
+                                    Dublin Airport via O'Connell Street
+                                
+                                    11:25
+                                
+
+
+
+
+                                    16
+                                
+                                    Dublin Airport via O'Connell Street
+                                
+                                    11:37
+                                
+
+
+
+
+                                    16
+                                
+                                    Dublin Airport via O'Connell Street
+                                
+                                    11:49
+                                
+
+
+
+
+Timestamp: 2014-10-21 10:49:48
+==== stop number and description ====
+
+
+
+2976
+
+Brehon Field Rd, Grange Hall
+
+==== bus real time ====
+
+                                    16
+                                
+                                    Dublin Airport via O'Connell Street
+                                
+                                    11:01
+                                
+
+
+
+
+                                    16
+                                
+                                    Dublin Airport via O'Connell Street
+                                
+                                    11:13
+                                
+
+
+
+
+                                    16
+                                
+                                    Dublin Airport via O'Connell Street
+                                
+                                    11:25
+                                
+
+
+
+
+                                    16
+                                
+                                    Dublin Airport via O'Connell Street
+                                
+                                    11:37
+                                
+
+
+
+
+                                    16
+                                
+                                    Dublin Airport via O'Connell Street
+                                
+                                    11:49
+                                
+
+
+
+
+Timestamp: 2014-10-21 10:49:49
+==== stop number and description ====
+
+
+
+2976
+
+Brehon Field Rd, Grange Hall
+
+==== bus real time ====
+
+                                    16
+                                
+                                    Dublin Airport via O'Connell Street
+                                
+                                    11:01
+                                
+
+
+
+
+                                    16
+                                
+                                    Dublin Airport via O'Connell Street
+                                
+                                    11:13
+                                
+
+
+
+
+                                    16
+                                
+                                    Dublin Airport via O'Connell Street
+                                
+                                    11:25
+                                
+
+
+
+
+                                    16
+                                
+                                    Dublin Airport via O'Connell Street
+                                
+                                    11:37
+                                
+
+
+
+
+                                    16
+                                
+                                    Dublin Airport via O'Connell Street
+                                
+                                    11:49
+                                
+
+
+

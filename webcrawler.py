@@ -54,7 +54,7 @@ def crawl(url, opt):
     ## END - OUTPUT 
 
 ## Let's make our webcrawler busy ##
-while True:
+while True:  
     # Get time between request
     num = raw_input('How long to wait or quit: ')
     # Easy way to stop this process
@@ -68,6 +68,15 @@ while True:
         print('Please enter in a number.\n')
         continue
     
+    # Get bus stop no.
+    bus = raw_input('''What bus stop no. you're looking for: ''')
+    # Try to convert it to a float
+    try:
+        bus = float(bus)
+    except ValueError:
+        print('Please enter in a number.\n')
+        continue 
+
     # Get times to repeat request 
     count = raw_input('How many time to repeat: ')
     # Try to convert it to a float
@@ -82,7 +91,7 @@ while True:
         # and show the before and after time
         print('\nREPEATING No. ' + str(i))
         print('Before: %s' % time.ctime())
-        crawl('http://www.dublinbus.ie/en/RTPI/Sources-of-Real-Time-Information/?searchtype=view&searchquery=262', 1)
+        crawl('http://www.dublinbus.ie/en/RTPI/Sources-of-Real-Time-Information/?searchtype=view&searchquery='+str(int(bus)), 1)
         time.sleep(num)
         print('After: %s\n' % time.ctime())
         print('END REPEATING No. ' + str(i) + '\n')

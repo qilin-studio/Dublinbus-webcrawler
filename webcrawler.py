@@ -6,7 +6,8 @@ import time
 import datetime
 from bs4 import BeautifulSoup
 
-def crawl(url, opt):
+def crawl(stop, opt):
+    url = 'http://www.dublinbus.ie/en/RTPI/Sources-of-Real-Time-Information/?searchtype=view&searchquery='
     # get time
     ts = time.time()
     st = datetime.datetime.fromtimestamp(ts).strftime('%Y-%m-%d %H:%M:%S')
@@ -15,7 +16,7 @@ def crawl(url, opt):
     # Option 1: get data from Dublinbus website
     if opt == 1:
         header = {'User-Agent': 'Mozilla/5.0'} # Needed to prevent 403 error on Wikipedia
-        req = urllib2.Request(url,headers=header)
+        req = urllib2.Request(url + str(stop),headers=header)
         response = urllib2.urlopen(req)
         # Let's make soup!!
         soup = BeautifulSoup(response)
@@ -37,7 +38,7 @@ def crawl(url, opt):
     file = open("temp262.txt", "a")
     print "Name of the file: ", file.name
 
-    ## OUTPUT TO SCREEN
+    ## OUTPUT TO SCREEN AND FILE
     print "\n================== Timestamp ==================\n"
     print st
     file.write("\nTimestamp: " + st)
@@ -91,7 +92,7 @@ while True:
         # and show the before and after time
         print('\nREPEATING No. ' + str(i))
         print('Before: %s' % time.ctime())
-        crawl('http://www.dublinbus.ie/en/RTPI/Sources-of-Real-Time-Information/?searchtype=view&searchquery='+str(int(bus)), 1)
+        crawl(int(bus), 1)
         time.sleep(num)
         print('After: %s\n' % time.ctime())
         print('END REPEATING No. ' + str(i) + '\n')
@@ -101,7 +102,8 @@ while True:
 # while loop √
 # regex to extract and format info
 # data structure
-# a better interface
+# a better interface √
+# more parameters to method
 
 
 

@@ -23,7 +23,7 @@ def crawl(stop, opt):
 
     # Option2: get data from sample code
     elif opt == 2:
-        sample_file = open('sample/262_21_48.html')
+        sample_file = open('html_sample/262_21_48.html')
         sample = sample_file.read()
         # Let's make soup!!
         soup = BeautifulSoup(sample)
@@ -35,23 +35,23 @@ def crawl(stop, opt):
     div = soup.find("div", {"id" : "stop-detail"})
     table = soup.find("table", { "id" : "rtpi-results" })
 
-    file = open("temp262.txt", "a")
-    print "Name of the file: ", file.name
+    f = open("temp"+str(stop)+".txt", "a")
+    print "Name of the file: ", f.name
 
     ## OUTPUT TO SCREEN AND FILE
     print "\n================== Timestamp ==================\n"
     print st
-    file.write("\nTimestamp: " + st)
+    f.write("\nTimestamp: " + st)
     print "\n================== stop number and description ==================\n"
-    file.write("\n==== stop number and description ====\n")
+    f.write("\n==== stop number and description ====\n")
     for node in div.findAll('td'):
         print ''.join(node.findAll(text=True))
-        file.write(''.join(node.findAll(text=True)))
+        f.write(''.join(node.findAll(text=True)))
     print "\n================== bus real time ==================\n"
-    file.write("\n==== bus real time ====\n")
+    f.write("\n==== bus real time ====\n")
     for node in table.findAll('td'):
         print ''.join(node.findAll(text=True))
-        file.write(''.join(node.findAll(text=True)))
+        f.write(''.join(node.findAll(text=True)))
     ## END - OUTPUT 
 
 ## Let's make our webcrawler busy ##
@@ -103,7 +103,7 @@ while True:
 # regex to extract and format info
 # data structure
 # a better interface √
-# more parameters to method
+# more parameters to method √
 
 
 
